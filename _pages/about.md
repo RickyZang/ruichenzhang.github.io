@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhe Wang (王者)"
+title: "Ruichen Zhang (张锐晨)"
 author_profile: true
 redirect_from: 
   - /about/
