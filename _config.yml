@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhe Wang's Website"
+title                    : "Ruichen's Website"
 title_separator          : "-"
-name                     : &name "Zhe Wang"
-description              : &description "Ph.D. Candidate"
-url                      : https://zhewang77.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruichen Zhang"
+description              : &description "Postdoctoral Research Fellow"
+url                      : https://rickyzang.github.io/ruichenzhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZheWang77/ZheWang77.github.io"
+repository               : "RickyZang/ruichenzhang.github.io"
 
 
 
@@ -25,27 +25,27 @@ repository               : "ZheWang77/ZheWang77.github.io"
 author:
   # Biographic information
   avatar           : "profile2.jpg"
-  name             : "Zhe Wang"
+  name             : "Ruichen Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, Beijing Jiaong University; Visiting Student, Nanyang Technological University"
-  location         : "China"
-  employer         : "Beijing Jiaong University"
+  bio              : "Postdoctoral Research Fellow, Nanyang Technological University"
+  location         : "Singapore"
+  employer         : "Nanyang Technological University"
   uri              : 
-  email            : "zhewang_77@bjtu.edu.cn" 
+  email            : "Ruichen.zhang@ntu.edu.sg" 
 
   # Academic websites
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=Uf2_bcIAAAAJ&hl=en"
   impactstory      : 
-  orcid            : "https://orcid.org/0000-0001-5745-7640"
+  orcid            : # "https://orcid.org/0000-0001-5745-7640"
   pubmed           : 
-  researchgate     : "https://www.researchgate.net/profile/Zhe-Wang-321"
+  researchgate     : #"https://www.researchgate.net/profile/Zhe-Wang-321"
 
   # Repositories and software development
   bitbucket        : 
   codepen          : 
   dribbble         : 
-  github           : "ZheWang77"
+  github           : "Rickyzang"
   kaggle           :  
   stackoverflow    : 
 
