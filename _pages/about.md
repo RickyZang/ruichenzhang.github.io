@@ -52,7 +52,7 @@ News
 
 Some Reprenstive Papers
 ======
-**For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
+**For all publications, please refer to Publications or my [google scholar](https://scholar.google.nl/citations?user=Uf2_bcIAAAAJ&hl=en).**
 
 
 1. H. Du, **R. Zhang**, Y. Liu, J. Wang, Y. Lin, Z. Li, D. Niyato, et. al, ["Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization"](https://ieeexplore.ieee.org/abstract/document/10529221), ***IEEE Communications Surveys & Tutorials***, 2024. (IF: 34.4, An1)  (Co-first author)
