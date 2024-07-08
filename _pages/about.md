@@ -52,46 +52,60 @@ News
 
 Some Reprenstive Papers
 ======
-**For all publications, please refer to Publications or my [google scholar](https://scholar.google.nl/citations?hl=en&pli=1&user=Uf2_bcIAAAAJ).**
+**For all publications, please refer to Publications or my [google scholar](https://scholar.google.com/citations?user=eVeXKIEAAAAJ&hl=en).**
 
-1. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Dusit Niyato, Shuguang Cui, Bo Ai, Mérouane Debbah, Khaled B. Letaief, and H. Vincent Poor, ["A Tutorial on Extremely Large-Scale MIMO for 6G: Fundamentals, Signal Processing, and Applications,"](https://arxiv.org/abs/2307.07340) ***IEEE Communications Surveys & Tutorials*** (IF: 35.6, An1), accepted, 2024. <i><font color="#C93756"> We provide a comprehensive survey for XL-MIMO technology, including hardware design, channel modeling, signal processing, application scenarios, and future research directions.</font><i>
-2. **Zhe Wang**, Jiayi Zhang, Hongyang Du, Wei E. I. Sha, Bo Ai, Dusit Niyato, and Mérouane Debbah, ["Extremely Large-Scale MIMO: Fundamentals, Challenges, Solutions, and Future Directions,"](https://arxiv.org/abs/2209.12131) ***IEEE Wireless Communications*** (IF: 12.9, An1), accepted, 2023. <i><font color="#C93756"> We briefly overview the basic fundamentals of XL-MIMO and explore the EDoF performance for non-parallel transceiver and multi-user scenarios.</font> <i>
-3. **Zhe Wang**, Jiayi Zhang, Hien Quoc Ngo, Bo Ai, and Mérouane Debbah, ["Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE,"](https://arxiv.org/abs/2301.02417) ***IEEE Transactions on Communications*** (IF: 8.3, An2), vol. 70, no. 3, pp. 1646-1664, Mar. 2023. <i><font color="#C93756">To efficiently benefit from multiple antennas at the user-side, we study the uplink precoding design in CF mMIMO systems based on Iteratively Weighted sum-Minimum Mean Square Error (I-WMMSE) algorithms.</font> <i>
-4. **Zhe Wang**, Jiayi Zhang, Bo Ai, Chau Yuen, and Mérouane Debbah, ["Uplink Performance of Cell-Free Massive MIMO with Multi-Antenna Users Over Jointly-Correlated Rayleigh Fading Channels,"](https://arxiv.org/abs/2110.04962) ***IEEE Transactions on Wireless Communications*** (IF: 10.4, An2), vol. 21, no. 9, pp. 7391–7406, Sep. 2022.  <i><font color="#C93756">We study four uplink implementations for CF mMIMO systems with multi-antenna users, from fully centralized processing to fully distributed processing. We observe that the system performance may not always benefit from the number of antennas per user.</font> <i>
-5. **Zhe Wang**, Jiayi Zhang, Hien Quoc Ngo, Bo Ai, and Mérouane Debbah, ["Iteratively Weighted MMSE Uplink Precoding for Cell-Free Massive MIMO,"](https://arxiv.org/abs/2201.11299) ***IEEE International Conference on Communications (ICC)***, 2022.  <i><font color="#C93756">A conference version of "Uplink Precoding Design for Cell-Free Massive MIMO with Iteratively Weighted MMSE,"</font> <i>
-6. **Zhe Wang**, Jiayi Zhang, Emil Björnson, and Bo Ai, ["Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels,"](https://arxiv.org/abs/2110.05796) ***IEEE Communications Letters*** (IF: 4.1, An3), vol. 25, no. 4, pp. 1348–1352, Apr. 2021.  <i><font color="#C93756">We analyze the uplink spectral efficiency for CF mMIMO systems over spatially correlated Rician fading channels. This channel is practical due to the consideration of phase-shift and spatial correlation.</font> <i>
+
+1. H. Du, **R. Zhang**, Y. Liu, J. Wang, Y. Lin, Z. Li, D. Niyato, et. al, ["Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization"](https://ieeexplore.ieee.org/abstract/document/10529221), ***IEEE Communications Surveys & Tutorials***, 2024. (IF: 34.4, An1)  (Co-first author)
+
+2. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, An1) 
+
+3. **R. Zhang**, K. Xiong, Y. Lu, B. Gao, P.  Fan, D and K. B. Letaief, ["Joint coordinated beamforming and power splitting ratio optimization in MU-MISO SWIPT-enabled HetNets: A multi-agent DDQN-based approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Journal on Selected Areas in Communications***, vol. 40, no. 2, pp. 677-693, Feb. 2022.  (IF: 13.8, An1)
+
+4. **R. Zhang**, K. Xiong, Y. Lu, D. W. K. Ng, P.  Fan, and K. B. Letaief, ["SWIPT-enabled Cell-Free Massive MIMO-NOMA Networks: A Machine Learning based Approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
+
+5. **R. Zhang**, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, D. I. Kim, ["Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission"](https://arxiv.org/abs/2404.09134), submitted to ***IEEE Journal on Selected Areas in Communications***, 2024.  (IF: 13.8, An1) (Major revision) 
+
+6. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"](https://arxiv.org/abs/2404.09134),  ***IEEE Network***, 2024.  (IF: 6.8, An2)  
+
+7. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)  
+
+8. **R. Zhang**, K. Xiong, W. Guo, X. Yang, P. Fan and K. B. Letaief, ["Q-Learning-Based Adaptive Power Control in Wireless RF Energy Harvesting Heterogeneous Networks"](https://ieeexplore.ieee.org/abstract/document/9195488),  ***IEEE System Journal***, vol. 15, no. 2, pp. 1861-1872, June 2021.  (IF: 4, An2)  
+
+9. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, P. Zhang, D. I. Kim, ["Generative AI for Space-Air-Ground Integrated Networks "](https://arxiv.org/abs/2311.06523),  submitted to ***IEEE Wireless Communications***, 2023.  (IF: 10.9, An1) (Major revision) 
+
+
+10. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, D. I. Kim, ["Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts"](https://arxiv.org/abs/2405.12472),  submitted to ***IEEE Network***, 2023.  (IF: 6.8, An1)   
+
+11. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.  
+
+
+
+
 
 
 
 Awards
 ======
-1. **National Scholarship**, Ministry of Education of China, 2023 
-2. **IEEE ICC 2023 Best Paper Awards**, IEEE ComSoc, 2023
-3. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling , Association of Chinese Graduate Education, 2023
-4. **First Prize** in the 17th China Graduate Electronics Design Contest  , Association of Chinese Graduate Education, 2022
-5. **SiNuo Education Fund Scholarship**, Beijing Jiaotong University, 2022 
-6. **National Scholarship**, Ministry of Education of China, 2020
+1. **National Scholarship**, Ministry of Education of China, 2020 
+2. **Best Paper Award**, Electric Power, 2024
+3. **Best Paper Award**, Electric Power, 2023
+4. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling , Association of Chinese Graduate Education, 2021
 
 
 Academic Services
 ======
 1. **TPC member**, IEEE GLOBECOM 2024
-1. **TPC Member**, IEEE PIMRC 2024, Track 2 - Networking & MAC
-2. **TPC Member**, IEEE VTC 2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
-3. **Reviewer**: IEEE JSAC, COMST, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, and more.
+2. **TPC Member**, IEEE PIMRC 2024, Track 2 - Networking & MAC
+3. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, and etc.
 
 ---
 
 ***
 
->*“Stay gold, pony boy!”*
+>*“The world is a fine place and worth the fighting for！”*
 >
->*---------《The Secret Life of Walter Mitty》*
+>*---------《For Whom the Bell Tolls》 written by Ernest Hemingway*
 
 ***
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=285&t=n&d=2xlkQUsEI7D_xiq21dSXpX29Qkh92cncUqCd1YAFllE&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-
-
-
-
