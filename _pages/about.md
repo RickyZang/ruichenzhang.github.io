@@ -45,6 +45,9 @@ News
 
 1. **[Apr 2024]**  Our tutorial proposal "[Generative Artificial Intelligence-empowered Networks: Optimization and Applications](https://iccc2024.ieee-iccc.org/program/tutorials-0)" has been ACCEPTED for presentation as a half-day tutorial at the **IEEE ICCC 2024**. (Let us go to Hangzhou! ^_^)
 
+1. **[Mar 2024]**  It's a great honor to have been invited by [Xidian University](https://www.nekens.com/isn) to give a talk about <font color=green>Generative Interactive Al with LLM for Next Generation Networking</font>!
+
+1. **[Mar 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) submitted to **IEEE JSAC**.
 
 
 
