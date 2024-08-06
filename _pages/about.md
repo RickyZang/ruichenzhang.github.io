@@ -64,7 +64,7 @@ Some Reprenstive Papers
 
 1. H. Du, **R. Zhang**, Y. Liu, J. Wang, Y. Lin, Z. Li, D. Niyato, et. al, ["Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization"](https://ieeexplore.ieee.org/abstract/document/10529221), ***IEEE Communications Surveys & Tutorials***, 2024. (IF: 34.4, An1)  (Co-first author)
 
-2. . **R. Zhang**, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, D. I. Kim, ["Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission"](https://arxiv.org/abs/2404.09134),  ***IEEE Journal on Selected Areas in Communications***, 2024.  (IF: 13.8, An1)
+2. **R. Zhang**, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, D. I. Kim, ["Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission"](https://arxiv.org/abs/2404.09134),  ***IEEE Journal on Selected Areas in Communications***, 2024.  (IF: 13.8, An1)
 
 3. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, An1) 
 
