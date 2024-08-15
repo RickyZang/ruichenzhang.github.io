@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a Postdoctoral Research Fellow at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU), Singapore, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President's Chair Professor, FIEEE). Prior to this, I obtained my PhD degree at Beijing Jiaotong University, Beijing, China, under the guidance of Prof. [Ke Xiong](https://scholar.google.nl/citations?user=Bt_z_14AAAAJ&hl=en) (The vice dean of the School of Computer and Information Technology) and Prof. [Yang Lu](https://scholar.google.com/citations?user=EJj7uN0AAAAJ&hl=zh-en) in Sept. 2023.
+Hi! I am currently a Postdoctoral Research Fellow at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU), Singapore, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President's Chair Professor, FIEEE). Prior to this, I obtained my PhD degree at Beijing Jiaotong University in Sept. 2023, Beijing, China, under the guidance of Prof. [Ke Xiong](https://scholar.google.nl/citations?user=Bt_z_14AAAAJ&hl=en) (The vice dean of the School of Computer and Information Technology) and Prof. [Yang Lu](https://scholar.google.com/citations?user=EJj7uN0AAAAJ&hl=zh-en).
 
 
 
@@ -66,14 +66,14 @@ Some Reprenstive Papers
 
 2. **R. Zhang**, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, D. I. Kim, ["Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission"](https://arxiv.org/abs/2404.09134),  ***IEEE Journal on Selected Areas in Communications***, 2024.  (IF: 13.8, An1)
 
-3. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, An1) 
+3. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, An1)  <br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - Mar., Apr., May, and Jul. 2024 <i><font>
 
 4. **R. Zhang**, K. Xiong, Y. Lu, B. Gao, P.  Fan, D and K. B. Letaief, ["Joint coordinated beamforming and power splitting ratio optimization in MU-MISO SWIPT-enabled HetNets: A multi-agent DDQN-based approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Journal on Selected Areas in Communications***, vol. 40, no. 2, pp. 677-693, Feb. 2022.  (IF: 13.8, An1)
 
 5. **R. Zhang**, K. Xiong, Y. Lu, D. W. K. Ng, P.  Fan, and K. B. Letaief, ["SWIPT-enabled Cell-Free Massive MIMO-NOMA Networks: A Machine Learning based Approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
 
 
-6. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"](https://arxiv.org/abs/2404.09134),  ***IEEE Network***, 2024.  (IF: 6.8, An2)  
+6. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"](https://arxiv.org/abs/2404.09134),  ***IEEE Network***, 2024.  (IF: 6.8, An2)   <font color="#CC5500"><i>&bull; Selected by IEEE Network Popular Documents - Jul. 2024 <i><font>
 
 7. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)  
 
@@ -97,14 +97,14 @@ Awards
 1. **National Scholarship**, Ministry of Education of China, 2020 
 2. **Best Paper Award**, Electric Power, 2024
 3. **Best Paper Award**, Electric Power, 2023
-4. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling , Association of Chinese Graduate Education, 2021
+4. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 2021
 
 
 Academic Services
 ======
 1. **TPC member**, IEEE GLOBECOM 2024
 2. **TPC Member**, IEEE PIMRC 2024, Track 2 - Networking & MAC
-3. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, and etc.
+3. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
 
 ---
 
