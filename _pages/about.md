@@ -24,7 +24,7 @@ News
 
 1. **[Aug 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) has been ACCEPTED at **IEEE JSAC**.
 
-1. **[Aug 2024]**  I visited <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> in <font color=green>Korea</font>, hosted by Prof. <a href="https://wireless.skku.edu/main/sub_page.php?page_idx=374">Dong In Kim</a>. It was so impressive and memorable!</li>
+1. **[Aug 2024]**  I visited <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> in <font color=green>Korea</font>, hosted by Prof. <a href="https://wireless.skku.edu/main/sub_page.php?page_idx=374">Dong In Kim</a>. It was so impressive and memorable!
 1. **[July 2024]** Our tutorial proposal "Empowering Networks with GAI: Fundamentals, Methodologies, and Applications" has been ACCEPTED for presentation as a half-day tutorial at the **IEEE GLOBECOM 2024**. (Let us go to South Africa! ^_^)
 1. **[July 2024]** Our paper titled "Optimizing AoI in RIS-aided Wireless Powered Communication Networks" has been ACCEPTED  at the **IEEE ICCC wks 2024**. (Let us go to Hangzhou! ^_^)
 
