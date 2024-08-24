@@ -44,25 +44,25 @@ News
 <ol start="12">
 
 
-<li>1.  <li>**[May 2024]**  Our paper paper titled [User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content](https://arxiv.org/abs/2311.11094) submitted to **IEEE TPAMI** got major revision decision. <li>
+  <li>**[May 2024]**  Our paper paper titled [User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content](https://arxiv.org/abs/2311.11094) submitted to **IEEE TPAMI** got major revision decision. <li>
 
-<li>1. **[May 2024]**  My 7 papers have been selected in [Research Library of Large Generative AI Models in Telecom](https://genainet.committees.comsoc.org/research-library/).<li>
+<li>**[May 2024]**  My 7 papers have been selected in [Research Library of Large Generative AI Models in Telecom](https://genainet.committees.comsoc.org/research-library/).<li>
 
-<li>1. **[May 2024]**  One first-author paper titled [Generative AI for Space-Air-Ground Integrated Networks](https://arxiv.org/abs/2311.06523) submitted to **IEEE WCM** got major revision decision.<li>
+<li> **[May 2024]**  One first-author paper titled [Generative AI for Space-Air-Ground Integrated Networks](https://arxiv.org/abs/2311.06523) submitted to **IEEE WCM** got major revision decision.<li>
 
-<li>1. **[May 2024]**  One first-author paper titled [Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization](https://ieeexplore.ieee.org/abstract/document/10529221) has been ACCEPTED at **IEEE COMST**. <li>
+<li> **[May 2024]**  One first-author paper titled [Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization](https://ieeexplore.ieee.org/abstract/document/10529221) has been ACCEPTED at **IEEE COMST**. <li>
 
-<li>1. **[May 2024]**  One first-author paper titled [Interactive AI with Retrieval-Augmented Generation for Next Generation Networking](https://ieeexplore.ieee.org/abstract/document/10531073) has been ACCEPTED at **IEEE Network**. <li>
+<li> **[May 2024]**  One first-author paper titled [Interactive AI with Retrieval-Augmented Generation for Next Generation Networking](https://ieeexplore.ieee.org/abstract/document/10531073) has been ACCEPTED at **IEEE Network**. <li>
 
-<li>1. **[Apr 2024]**  I am delighted to be a **Panel Judge** in NTU Artificial & Augmented Intelligence Workshop. I have learned so many interesting AI teches or methods. ^_^<li>
+<li> **[Apr 2024]**  I am delighted to be a **Panel Judge** in NTU Artificial & Augmented Intelligence Workshop. I have learned so many interesting AI teches or methods. ^_^<li>
 
-<li>1. **[Apr 2024]**  One first-author paper titled [Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study](https://ieeexplore.ieee.org/abstract/document/10506539) has been ACCEPTED at **IEEE Network**.<li>
+<li> **[Apr 2024]**  One first-author paper titled [Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study](https://ieeexplore.ieee.org/abstract/document/10506539) has been ACCEPTED at **IEEE Network**.<li>
 
 <li>1. **[Apr 2024]**  Our tutorial proposal "[Generative Artificial Intelligence-empowered Networks: Optimization and Applications](https://iccc2024.ieee-iccc.org/program/tutorials-0)" has been ACCEPTED for presentation as a half-day tutorial at the **IEEE ICCC 2024**. (Let us go to Hangzhou! ^_^)<li>
 
-<li>1. **[Mar 2024]**  It's a great honor to have been invited by [Xidian University](https://www.nekens.com/isn) to give a talk about <font color=green>Generative Interactive Al with LLM for Next Generation Networking</font>!<li>
+<li> **[Mar 2024]**  It's a great honor to have been invited by [Xidian University](https://www.nekens.com/isn) to give a talk about <font color=green>Generative Interactive Al with LLM for Next Generation Networking</font>!<li>
 
-<li>1. **[Mar 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) submitted to **IEEE JSAC**.<li>
+<li> **[Mar 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) submitted to **IEEE JSAC**.<li>
 </ol>
 </details>
 
