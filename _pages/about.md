@@ -11,14 +11,16 @@ Hi! I am currently a Postdoctoral Research Fellow at the [College of Computing a
 
 
 
-My research primarily focuses on AI for networking, including **generative AI-enabled networking**, **large language models empowered networking**, and **reinforcement learning-enabled wireless communication networks**. If you are interested in my (our group) work, you may refer to this [repository](https://hongyangdu.github.io/GAINET/) for the latest updates of our group! Moreover, I am also doing some novel AI models to get meaningful information on plasma turbulence field. If you are also interested, please refer to this [repository](https://ntufusion.github.io/).
+My research primarily focuses on AI for networking, including **generative AI-enabled networking**, **large language models empowered networking**, and **reinforcement learning-enabled wireless communication networks**. If you are interested in my (our group) work, you may refer to this [repository](https://hongyangdu.github.io/GAINET/) for the latest updates of our group! Moreover, I am also doing some novel AI models to get meaningful information on the plasma turbulence field. If you are also interested, please refer to this [repository](https://ntufusion.github.io/).
 
 
-If you have any questions or have an interest in collaborating with me, please feel free to email me (ruichen.zhang@ntu.edu.sg)!
+If you have any questions or are interested in collaborating with me, please feel free to email me (ruichen.zhang@ntu.edu.sg)!
 
 
 News
 ======
+
+1. **[Aug 2024]** Our paper titled "SEE Maximization in RIS-aided Network with RSMA: A PPO-SCF Method" has been ACCEPTED at **IEEE WCL**.
 
 1. **[Aug 2024]**  One first-author paper titled [Generative AI for Space-Air-Ground Integrated Networks](https://arxiv.org/abs/2311.06523) has been ACCEPTED at **IEEE WCM**.
 
@@ -35,6 +37,13 @@ News
 1. **[June 2024]**  I am delighted to give a talk about **Generative AI for Low-Carbon Artificial Intelligence of Things** in  NTU-Tsinghua AIR Workshop on Computational Sustainability in Digital Infrastructures.
 
 1. **[May 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) submitted to **IEEE JSAC** got major revision decision.
+
+
+<details>
+<summary><strong>More News</strong></summary>
+<ol start="12">
+
+
 1. **[May 2024]**  Our paper paper titled [User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content](https://arxiv.org/abs/2311.11094) submitted to **IEEE TPAMI** got major revision decision.
 
 1. **[May 2024]**  My 7 papers have been selected in [Research Library of Large Generative AI Models in Telecom](https://genainet.committees.comsoc.org/research-library/).
@@ -54,7 +63,8 @@ News
 1. **[Mar 2024]**  It's a great honor to have been invited by [Xidian University](https://www.nekens.com/isn) to give a talk about <font color=green>Generative Interactive Al with LLM for Next Generation Networking</font>!
 
 1. **[Mar 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) submitted to **IEEE JSAC**.
-
+</ol>
+</details>
 
 
 
