@@ -20,7 +20,11 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
-1. **[Aug 2024]** Our paper titled "SEE Maximization in RIS-aided Network with RSMA: A PPO-SCF Method" has been ACCEPTED at **IEEE WCL**.
+1. **[Sep 2024]** Our paper titled **Optimizing Resource Allocation for Multi-modal Semantic Communication in Mobile AIGC Networks: A Diffusion-based Game Approach** has been submitted to **IEEE TCCN**.
+
+1. **[Sep 2024]** Our paper titled **STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization** has been submitted to **IEEE TCCN**.
+ 
+1. **[Aug 2024]** Our paper titled [SEE Maximization in RIS-aided Network with RSMA: A PPO-SCF Method](https://ieeexplore.ieee.org/document/10660523/) has been ACCEPTED at **IEEE WCL**.
 
 1. **[Aug 2024]**  One first-author paper titled [Generative AI for Space-Air-Ground Integrated Networks](https://arxiv.org/abs/2311.06523) has been ACCEPTED at **IEEE WCM**.
 
@@ -36,13 +40,13 @@ News
 
 1. **[June 2024]**  I am delighted to give a talk about **Generative AI for Low-Carbon Artificial Intelligence of Things** in  NTU-Tsinghua AIR Workshop on Computational Sustainability in Digital Infrastructures.
 
-1. **[May 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) submitted to **IEEE JSAC** got major revision decision.
 
 
 <details>
 <summary><strong>More News</strong></summary>
 <ol start="12">
 
+1. **[May 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) submitted to **IEEE JSAC** got major revision decision.
 
   <li>**[May 2024]**  Our paper paper titled [User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content](https://arxiv.org/abs/2311.11094) submitted to **IEEE TPAMI** got major revision decision. </li>
 
