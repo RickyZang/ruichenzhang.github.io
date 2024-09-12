@@ -96,7 +96,7 @@ Some Reprenstive Papers
 7. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, P. Zhang, D. I. Kim, ["Generative AI for Space-Air-Ground Integrated Networks "](https://arxiv.org/abs/2311.06523), ***IEEE Wireless Communications***,  accepted, 2024.  (IF: 10.9, An1)  
 
 
-8. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"](https://arxiv.org/abs/2404.09134),  ***IEEE Network***, 2024.  (IF: 6.8, An2)   <font color="#CC5500"><i>&bull; Selected by IEEE Network Popular Documents - Jul. 2024 <i><font>
+8. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"](https://arxiv.org/abs/2404.09134),  ***IEEE Network***, 2024.  (IF: 6.8, An2)   <font color="#CC5500"><i>&bull; Selected by IEEE Network Popular Documents - Jul. and Aug. 2024 <i><font>
 
 9. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)  
 
