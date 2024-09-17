@@ -20,6 +20,8 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
+1. **[Sep 2024]** Our paper titled **Rate-Splitting for Cell-Free Massive MIMO: Performance Analysis and Generative AI Approach** has been ACCEPTED at **IEEE TCOM**.
+
 1. **[Sep 2024]** Our paper titled **Optimizing Resource Allocation for Multi-modal Semantic Communication in Mobile AIGC Networks: A Diffusion-based Game Approach** has been submitted to **IEEE TCCN**.
 
 1. **[Sep 2024]** Our paper titled **STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization** has been submitted to **IEEE TCCN**.
