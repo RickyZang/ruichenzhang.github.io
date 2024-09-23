@@ -19,7 +19,7 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
-1. **[Sep 2024]** Our paper titled **Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method** has been ACCEPTED at **IEEE WCL**.
+1. **[Sep 2024]** Our paper titled **Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method** has been submitted to **IEEE WCL**.
 
 1. **[Sep 2024]** Our paper titled **SWIPTNet: A Unified Deep Learning Framework for SWIPT based on GNN and Transfer Learning** has been submitted to **IEEE TMC**.
 
