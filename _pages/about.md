@@ -19,13 +19,13 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
-1. **[Sep 2024]** Our paper titled **Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method** has been submitted to **IEEE WCL**.
+1. **[Sep 2024]** Our paper titled [Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method](https://arxiv.org/abs/2409.14031) has been submitted to **IEEE WCL**.
 
 1. **[Sep 2024]** Our paper titled **SWIPTNet: A Unified Deep Learning Framework for SWIPT based on GNN and Transfer Learning** has been submitted to **IEEE TMC**.
 
-1. **[Sep 2024]** Our paper titled **Rate-Splitting for Cell-Free Massive MIMO: Performance Analysis and Generative AI Approach** has been ACCEPTED at **IEEE TCOM**.
+1. **[Sep 2024]** Our paper titled [Rate-Splitting for Cell-Free Massive MIMO: Performance Analysis and Generative AI Approach](https://ieeexplore.ieee.org/abstract/document/10697206) has been ACCEPTED at **IEEE TCOM**.
 
-1. **[Sep 2024]** Our paper titled **Optimizing Resource Allocation for Multi-modal Semantic Communication in Mobile AIGC Networks: A Diffusion-based Game Approach** has been submitted to **IEEE TCCN**.
+1. **[Sep 2024]** Our paper titled [Optimizing Resource Allocation for Multi-modal Semantic Communication in Mobile AIGC Networks: A Diffusion-based Game Approach](https://arxiv.org/abs/2409.17506) has been submitted to **IEEE TCCN**.
 
 1. **[Sep 2024]** Our paper titled **STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization** has been submitted to **IEEE TCCN**.
  
