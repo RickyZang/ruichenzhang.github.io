@@ -19,13 +19,13 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
-1. **[NoV 2024]** Our paper titled **Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach** has been submitted to **IEEE TWC**.
+1. **[Nov 2024]** Our paper titled **Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach** has been submitted to **IEEE TWC**.
 
-1. **[NoV 2024]** Our paper titled **Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks** has been submitted to **IEEE TVT**.
+1. **[Nov 2024]** Our paper titled **Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks** has been submitted to **IEEE TVT**.
 
-1. **[NoV 2024]** Our 3 papers has been submitted to **IEEE ICC 2025**. 
+1. **[Nov 2024]** Our 3 papers has been submitted to **IEEE ICC 2025**. 
 
-1. **[NoV 2024]** Our paper titled [Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method](https://arxiv.org/abs/2409.14031) has been submitted to **IEEE TNNLS**.
+1. **[Nov 2024]** Our paper titled [Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method](https://arxiv.org/abs/2409.14031) has been submitted to **IEEE TNNLS**.
 
 1. **[Sep 2024]** Our paper titled **SWIPTNet: A Unified Deep Learning Framework for SWIPT based on GNN and Transfer Learning** has been submitted to **IEEE TMC**.
 
