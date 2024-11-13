@@ -19,9 +19,9 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
-1. **[NoV 2024]** Our paper titled [Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach] has been submitted to **IEEE TWC**.
+1. **[NoV 2024]** Our paper titled **Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach** has been submitted to **IEEE TWC**.
 
-1. **[NoV 2024]** Our paper titled [Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks] has been submitted to **IEEE TVT**.
+1. **[NoV 2024]** Our paper titled **Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks** has been submitted to **IEEE TVT**.
 
 1. **[NoV 2024]** Our 3 papers has been submitted to **IEEE ICC 2025**. 
 
