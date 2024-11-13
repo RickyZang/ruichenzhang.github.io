@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a Postdoctoral Research Fellow at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU), Singapore, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President's Chair Professor, FIEEE). Prior to this, I obtained my PhD degree at Beijing Jiaotong University in Sept. 2023, Beijing, China, under the guidance of Prof. [Ke Xiong](https://scholar.google.nl/citations?user=Bt_z_14AAAAJ&hl=en) (The vice dean of the School of Computer and Information Technology) and Prof. [Yang Lu](https://scholar.google.com/citations?user=EJj7uN0AAAAJ&hl=zh-en).
+Hi! I am currently a Postdoctoral Research Fellow at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU), Singapore, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President's Chair Professor, FIEEE). Prior to this, I obtained my PhD degree at Beijing Jiaotong University in Sept. 2023, Beijing, China, under the guidance of Prof. [Ke Xiong](https://scholar.google.nl/citations?user=Bt_z_14AAAAJ&hl=en) and Prof. [Yang Lu](https://scholar.google.com/citations?user=EJj7uN0AAAAJ&hl=zh-en).
 
 
 
