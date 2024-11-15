@@ -21,7 +21,7 @@ News
 ======
 1. **[Nov 2024]** One first-author paper titled [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](https://arxiv.org/abs/2411.09148) has been submitted to **IEEE Network**.
 
-1. **[Nov 2024]** Our paper titled **Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach** has been submitted to **IEEE TWC**.
+1. **[Nov 2024]** Our paper titled [Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach](https://arxiv.org/abs/2411.09146) has been submitted to **IEEE TWC**.
 
 1. **[Nov 2024]** Our paper titled **Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks** has been submitted to **IEEE TVT**.
 
