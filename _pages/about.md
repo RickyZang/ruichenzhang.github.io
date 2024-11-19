@@ -125,10 +125,11 @@ Some Reprenstive Papers
 
 Awards
 ======
-1. **National Scholarship**, Ministry of Education of China, 2020 
+1. **首都前沿学才成果**, 北京市科学技术协会, 2024
 2. **Best Paper Award**, Electric Power, 2024
 3. **Best Paper Award**, Electric Power, 2023
 4. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 2021
+5.  **Multiple Scholarships**, including  **National Scholarship**, **Enterprise Scholarships**, and **University Honors**, 2014–2018; 2018-2023
 
 
 Academic Services
