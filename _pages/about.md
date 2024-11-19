@@ -97,7 +97,7 @@ Some Reprenstive Papers
 
 2. **R. Zhang**, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, D. I. Kim, ["Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission"](https://arxiv.org/abs/2404.09134),  ***IEEE Journal on Selected Areas in Communications***, 2024.  (IF: 13.8, An1)
 
-3. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, An1)  <br/> <font color="#CC5500"><i>&bull; Selected by IEEE JSAC Popular Documents - Mar., Apr., May, and Jul. 2024 <i><font>
+3. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, An1)  <br/> <font color="#CC5500"><i>&bull; Selected by ESI Highly Cited Paper <i><font>
 
 4. **R. Zhang**, K. Xiong, Y. Lu, B. Gao, P.  Fan, D and K. B. Letaief, ["Joint coordinated beamforming and power splitting ratio optimization in MU-MISO SWIPT-enabled HetNets: A multi-agent DDQN-based approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Journal on Selected Areas in Communications***, vol. 40, no. 2, pp. 677-693, Feb. 2022.  (IF: 13.8, An1)
 
