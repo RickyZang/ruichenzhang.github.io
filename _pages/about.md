@@ -125,7 +125,7 @@ Some Reprenstive Papers
 
 Awards
 ======
-1. **首都前沿学才成果**, 北京市科学技术协会, 2024
+1. **首都前沿学术成果**, 北京市科学技术协会, 2024
 2. **Best Paper Award**, Electric Power, 2024
 3. **Best Paper Award**, Electric Power, 2023
 4. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 2021
