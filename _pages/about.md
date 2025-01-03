@@ -19,7 +19,23 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
+
+1. **[Jan 2025]** I am honored to join as a **Managing Editor** of IEEE Transactions on Network Science and Engineering (IEEE TNSE).  I look forward to contributing to TNSE and the broader research community.
+
+1. **[Dec 2024]** One first-author paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method](https://arxiv.org/abs/2501.01141) has been submitted to **IEEE TMC**
+
+1. **[Dec 2024]** Our paper titled [Retrieval-augmented Generation for GenAI-enabled Semantic Communications](https://arxiv.org/abs/2412.19494) has been submitted to **IEEE WCM**
+
+1. **[Dec 2024]** Our paper titled [Adaptive Pruning for Large Language Models with Structural Importance Awareness](https://arxiv.org/pdf/2412.15127) has been submitted to **IEEE TAI**
+
+1. **[Dec 2024]** Our paper titled [When Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study](https://arxiv.org/abs/2412.07189) has been submitted to **IEEE WCM**
+
+1. **[Dec 2024]** Our paper titled [Hallucination-aware Optimization for Large Language Model-empowered Communications](https://arxiv.org/abs/2412.06007) has been submitted to **IEEE Network**
+
 1. **[Nov 2024]** One first-author paper titled [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](https://arxiv.org/abs/2411.09148) has been submitted to **IEEE Network**.
+
+1. **[Nov 2024]** We will organize a special session “[Integrated Communication, Sensing, and Computation for UAV Wireless Networks](https://www.ccai.net/SS2.html)” in IEEE International Conference on Computer Communication and Artificial Intelligence (CCAI), Haikou, China, welcome to submit papers!
+
 
 1. **[Nov 2024]** Our paper titled [Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach](https://arxiv.org/abs/2411.09146) has been submitted to **IEEE TWC**.
 
@@ -135,9 +151,10 @@ Awards
 
 Academic Services
 ======
-1. **TPC member**, IEEE GLOBECOM 2024
-2. **TPC Member**, IEEE PIMRC 2024, Track 2 - Networking & MAC
-3. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
+1. **Managing Editor, IEEE Transactions on Network Science and Engineering (2025-)**
+2. **Workshop Co-chair**, “Integrated Communication, Sensing, and Computation for UAV Wireless Networks” in IEEE CCAI 2024.
+3. **TPC Member**, IEEE GLOBECOM 2024, IEEE PIMRC 2024, Track 2 - Networking & MAC, etc.
+4. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
 
 ---
 
