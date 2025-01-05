@@ -19,6 +19,8 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
+1. **[Jan 2025]** Our paper titled has been **BanditMatch: A Game-theoretic Approach for Stable Preference Matching in Peer-to-Peer Federated Learning** submitted to **IEEE TVT**
+
 1. **[Jan 2025]** I am honored to join as a **Managing Editor** of IEEE Transactions on Network Science and Engineering (IEEE TNSE).  I look forward to contributing to TNSE and the broader research community.
 
 1. **[Dec 2024]** One first-author paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method](https://arxiv.org/abs/2501.01141) has been submitted to **IEEE TMC**
