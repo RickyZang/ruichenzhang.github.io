@@ -19,11 +19,22 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
-1. **[Jan 2025]** Our paper titled has been **Empowering Large Language Models in Wireless Communication: A Novel Dataset and Fine-Tuning Framework** submitted to **IEEE TCOM**
+1. **[Jan 2025]** Our paper titled **LVFUS: A Lightweight Vertical Federated Unlearning Framework via Adaptive Optimizer Switching** has been submitted to **IJCAI**.
 
-1. **[Jan 2025]** Our paper titled has been **A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks** submitted to **IEEE TCCN**
+1. **[Jan 2025]** Our paper titled **Deep Learning Approaches for Anti-Money Laundering on Mobile Transactions: Review, Framework, and Directions** has been submitted to **IEEE IoTJ**.
 
-1. **[Jan 2025]** Our paper titled has been **BanditMatch: A Game-theoretic Approach for Stable Preference Matching in Peer-to-Peer Federated Learning** submitted to **IEEE TVT**
+
+1. **[Jan 2025]** One corresponding author paper titled **Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments** has been ACCEPTED at **IEEE TCOM**.
+
+1. **[Jan 2025]** Our paper titled has been [Advancing Generative Artificial Intelligence and Large Language Models for Demand Side Management with Electric Vehicles](https://arxiv.org/abs/2501.15544) submitted to **IEEE VTM**.
+
+1. **[Jan 2025]** Our paper titled[Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System](http://arxiv.org/abs/2501.15091) has been submitted to **IEEE TVT**.
+
+1. **[Jan 2025]** Our paper titled  [Empowering Large Language Models in Wireless Communication: A Novel Dataset and Fine-Tuning Framework](https://arxiv.org/abs/2501.09631) has been submitted to **IEEE TCOM**.
+
+1. **[Jan 2025]** Our paper titled **A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks**  has been submitted to **IEEE TCCN**.
+
+1. **[Jan 2025]** Our paper titled **BanditMatch: A Game-theoretic Approach for Stable Preference Matching in Peer-to-Peer Federated Learning**  has been submitted to **IEEE TVT**.
 
 1. **[Jan 2025]** I am honored to join as a **Managing Editor** of IEEE Transactions on Network Science and Engineering (IEEE TNSE).  I look forward to contributing to TNSE and the broader research community.
 
