@@ -19,6 +19,8 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
+1. **[Jan 2025]** Our paper titled **MaxMB:A Signal Detector for OFDM ReceiverBased on Multi-Axis Attention and MBConv** has been submitted to **IEEE TVT**.
+
 1. **[Jan 2025]** Our paper titled **LVFUS: A Lightweight Vertical Federated Unlearning Framework via Adaptive Optimizer Switching** has been submitted to **IJCAI**.
 
 1. **[Jan 2025]** Our paper titled **Deep Learning Approaches for Anti-Money Laundering on Mobile Transactions: Review, Framework, and Directions** has been submitted to **IEEE IoTJ**.
