@@ -19,6 +19,8 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
+1. **[Feb 2025]** One first-author paper titled [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](https://arxiv.org/abs/2411.09148) has been ACCEPTED at **IEEE Network**.
+
 1. **[Jan 2025]** Our paper titled **MaxMB:A Signal Detector for OFDM Receiver Based on Multi-Axis Attention and MBConv** has been submitted to **IEEE TVT**.
 
 1. **[Jan 2025]** Our paper titled **LVFUS: A Lightweight Vertical Federated Unlearning Framework via Adaptive Optimizer Switching** has been submitted to **IJCAI**.
@@ -149,7 +151,7 @@ Some Reprenstive Papers
 10. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)
 
 11.  **R. Zhang**, J. He, X. Luo, D. Niyato, J. Kang, Z. Xiong, Y. Li, B. Sikdar, ["Toward Democratized Generative AI in Next-Generation Mobile Edge
-  Networks"](https://arxiv.org/abs/2411.09148),  submitted to ***IEEE Network***, 2023.  (IF: 6.8, An2)   
+  Networks"](https://arxiv.org/abs/2411.09148),  ***IEEE Network***, 2023.  (IF: 6.8, An2)   
 
 12. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, D. I. Kim, ["Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts"](https://arxiv.org/abs/2405.12472),  submitted to ***IEEE Vehicular Technology Magazine***, 2024.  (IF: 5.8, An2)   
 
