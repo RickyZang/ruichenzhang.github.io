@@ -19,6 +19,8 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
+1. **[Feb 2025]**  Our paper titled **Joint Scheduling and Power Control in AoI-Oriented WP-IoT Networks: An HVF-based PPO Approach** has been submitted to **IEEE TVT**.
+
 1. **[Feb 2025]** One first-author paper titled [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](https://arxiv.org/abs/2411.09148) has been ACCEPTED at **IEEE Network**.
 
 1. **[Jan 2025]** Our paper titled **MaxMB:A Signal Detector for OFDM Receiver Based on Multi-Axis Attention and MBConv** has been submitted to **IEEE TVT**.
