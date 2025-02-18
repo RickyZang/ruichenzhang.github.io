@@ -19,6 +19,12 @@ If you have any questions or are interested in collaborating with me, please fee
 News
 ======
 
+1. **[Feb 2025]**  One first-author paper titled **Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking** has been submitted to **IEEE COMMAG**.
+
+1. **[Feb 2025]**  Our paper titled **Intelligent Mobile AI-Generated Content Services via Interactive Prompt Engineering and Dynamic Service Provisioning** has been submitted to **IEEE TMC**.
+
+1. **[Feb 2025]**  Our paper titled **Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking** has been submitted to **IEEE VTM**.
+
 1. **[Feb 2025]**  Our paper titled **Joint Scheduling and Power Control in AoI-Oriented WP-IoT Networks: An HVF-based PPO Approach** has been submitted to **IEEE TVT**.
 
 1. **[Feb 2025]** One first-author paper titled [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](https://arxiv.org/abs/2411.09148) has been ACCEPTED at **IEEE Network**.
@@ -32,7 +38,7 @@ News
 
 1. **[Jan 2025]** One corresponding author paper titled **Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments** has been ACCEPTED at **IEEE TCOM**.
 
-1. **[Jan 2025]** Our paper titled has been [Advancing Generative Artificial Intelligence and Large Language Models for Demand Side Management with Electric Vehicles](https://arxiv.org/abs/2501.15544) submitted to **IEEE VTM**.
+1. **[Jan 2025]** Our paper titled has been [Advancing Generative Artificial Intelligence and Large Language Models for Demand Side Management with Electric Vehicles](https://arxiv.org/abs/2501.15544) submitted to **IEEE IoTM**.
 
 1. **[Jan 2025]** Our paper titled[Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System](http://arxiv.org/abs/2501.15091) has been submitted to **IEEE TVT**.
 
