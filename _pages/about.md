@@ -20,7 +20,7 @@ Highlight
 ======
 
 1. **Call for Papers**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”, **lead guest editor**.
-
+2. I am honored to join as a **Managing Editor** of [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).  I look forward to contributing to TNSE and the broader research community.
 
 
 News
@@ -153,7 +153,7 @@ Some Reprenstive Papers
 
 4. **R. Zhang**, K. Xiong, Y. Lu, B. Gao, P.  Fan, D and K. B. Letaief, ["Joint coordinated beamforming and power splitting ratio optimization in MU-MISO SWIPT-enabled HetNets: A multi-agent DDQN-based approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Journal on Selected Areas in Communications***, vol. 40, no. 2, pp. 677-693, Feb. 2022.  (IF: 13.8, CCF A, An1)
 
-5. **R. Zhang**, K. Xiong, Y. Lu, D. W. K. Ng, P.  Fan, and K. B. Letaief, ["SWIPT-enabled Cell-Free Massive MIMO-NOMA Networks: A Machine Learning based Approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
+5. **R. Zhang**, K. Xiong, Y. Lu, D. W. K. Ng, P.  Fan, and K. B. Letaief, ["SWIPT-enabled Cell-Free Massive MIMO-NOMA Networks: A Machine Learning based Approach"](https://ieeexplore.ieee.org/document/10304612/), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
 
 6. **R. Zhang**, C. Zhao, H. Du, D. Niyato, J. Wang,   S. Sawadsitang, X. Shen, and D. I. Kim, ["Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method"](https://arxiv.org/abs/2501.01141), submitted to ***IEEE Transactions on Mobile Computing***, 2024.  (IF: 7.7, CCF A, An2)
    
@@ -162,7 +162,7 @@ Some Reprenstive Papers
 8. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, P. Zhang, D. I. Kim, ["Generative AI for Space-Air-Ground Integrated Networks "](https://arxiv.org/abs/2311.06523), ***IEEE Wireless Communications***,  accepted, 2024.  (IF: 10.9, An1)  
 
 
-9. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"](https://arxiv.org/abs/2404.09134),  ***IEEE Network***, 2024.  (IF: 6.8, An2)   <font color="#CC5500"><i>&bull; Selected by IEEE Network Popular Documents - Jul. and Aug. 2024 <i><font>
+9. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"]([https://arxiv.org/abs/2404.09134](https://ieeexplore.ieee.org/abstract/document/10506539)),  ***IEEE Network***, 2024.  (IF: 6.8, An2)   <font color="#CC5500"><i>&bull; Selected by IEEE Network Popular Documents - Jul. and Aug. 2024 <i><font>
 
 10. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)
 
