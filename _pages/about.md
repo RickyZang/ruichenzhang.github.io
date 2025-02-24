@@ -16,14 +16,22 @@ I am also honored to serve as a Managing Editor of the [IEEE Transactions on Net
 If you have any questions or are interested in collaborating with me, please feel free to email me (ruichen.zhang@ntu.edu.sg)!
 
 
+Highlight
+======
+
+1. **Call for Papers**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”, **lead guest editor**.
+
+
+
 News
 ======
+
 
 1. **[Feb 2025]**  One first-author paper titled **Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking** has been submitted to **IEEE COMMAG**.
 
 1. **[Feb 2025]**  Our paper titled **Intelligent Mobile AI-Generated Content Services via Interactive Prompt Engineering and Dynamic Service Provisioning** has been submitted to **IEEE TMC**.
 
-1. **[Feb 2025]**  Our paper titled **Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking** has been submitted to **IEEE VTM**.
+1. **[Feb 2025]**  Our paper titled **Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking** has been submitted to **IEEE COMMAG**.
 
 1. **[Feb 2025]**  Our paper titled **Joint Scheduling and Power Control in AoI-Oriented WP-IoT Networks: An HVF-based PPO Approach** has been submitted to **IEEE TVT**.
 
