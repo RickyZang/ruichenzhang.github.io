@@ -66,50 +66,51 @@ News
 
 1. **[Dec 2024]** Our paper titled [When Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study](https://arxiv.org/abs/2412.07189) has been submitted to **IEEE WCM**
 
-1. **[Dec 2024]** Our paper titled [Hallucination-aware Optimization for Large Language Model-empowered Communications](https://arxiv.org/abs/2412.06007) has been submitted to **IEEE Network**
-
-1. **[Nov 2024]** One first-author paper titled [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](https://arxiv.org/abs/2411.09148) has been submitted to **IEEE Network**.
-
-1. **[Nov 2024]** We will organize a special session “[Integrated Communication, Sensing, and Computation for UAV Wireless Networks](https://www.ccai.net/SS2.html)” in IEEE International Conference on Computer Communication and Artificial Intelligence (CCAI), Haikou, China, welcome to submit papers!
-
-
-1. **[Nov 2024]** Our paper titled [Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach](https://arxiv.org/abs/2411.09146) has been submitted to **IEEE TWC**.
-
-1. **[Nov 2024]** Our paper titled **Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks** has been submitted to **IEEE TVT**.
-
-1. **[Nov 2024]** Our 3 papers has been submitted to **IEEE ICC 2025**. 
-
-1. **[Nov 2024]** Our paper titled [Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method](https://arxiv.org/abs/2409.14031) has been submitted to **IEEE TNNLS**.
-
-1. **[Sep 2024]** Our paper titled **SWIPTNet: A Unified Deep Learning Framework for SWIPT based on GNN and Transfer Learning** has been submitted to **IEEE TMC**.
-
-1. **[Sep 2024]** Our paper titled [Rate-Splitting for Cell-Free Massive MIMO: Performance Analysis and Generative AI Approach](https://ieeexplore.ieee.org/abstract/document/10697206) has been ACCEPTED at **IEEE TCOM**.
-
-1. **[Sep 2024]** Our paper titled [Optimizing Resource Allocation for Multi-modal Semantic Communication in Mobile AIGC Networks: A Diffusion-based Game Approach](https://arxiv.org/abs/2409.17506) has been submitted to **IEEE TCCN**.
-
-1. **[Sep 2024]** Our paper titled **STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization** has been submitted to **IEEE TCCN**.
- 
-1. **[Aug 2024]** Our paper titled [SEE Maximization in RIS-aided Network with RSMA: A PPO-SCF Method](https://ieeexplore.ieee.org/document/10660523/) has been ACCEPTED at **IEEE WCL**.
-
-1. **[Aug 2024]**  One first-author paper titled [Generative AI for Space-Air-Ground Integrated Networks](https://arxiv.org/abs/2311.06523) has been ACCEPTED at **IEEE WCM**.
-
-1. **[Aug 2024]**  One first-author paper titled [Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission](https://arxiv.org/abs/2404.09134) has been ACCEPTED at **IEEE JSAC**.
-
-1. **[Aug 2024]**  I visited <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> in <font color=green>Korea</font>, hosted by Prof. <a href="https://wireless.skku.edu/main/sub_page.php?page_idx=374">Dong In Kim</a>. It was so impressive and memorable!
-1. **[July 2024]** Our tutorial proposal "Empowering Networks with GAI: Fundamentals, Methodologies, and Applications" has been ACCEPTED for presentation as a half-day tutorial at the **IEEE GLOBECOM 2024**. (Let us go to South Africa! ^_^)
-1. **[July 2024]** Our paper titled "Optimizing AoI in RIS-aided Wireless Powered Communication Networks" has been ACCEPTED  at the **IEEE ICCC wks 2024**. (Let us go to Hangzhou! ^_^)
-
-1. **[July 2024]** Our paper titled "Robust Optical Quantum Imaging Network with Entangled Photons in Oceanic Turbulent Environments" has been submitted the **IEEE TCOM**.
-
-1. **[June 2024]** I attended the **IEEE VTC-Spring’24** and **SG 6G Summit’24** held in Singapore. Very happy to meet old friends and make new friends!
-
-1. **[June 2024]**  I am delighted to give a talk about **Generative AI for Low-Carbon Artificial Intelligence of Things** in  NTU-Tsinghua AIR Workshop on Computational Sustainability in Digital Infrastructures.
-
+1. **[Dec 2024]** Our paper titled [Hallucination-aware Optimization for Large Language Model-empowered Communications](https://arxiv.org/abs/2412.06007) has been submitted to **IEEE COMMAG**
 
 
 <details>
 <summary><strong>More News</strong></summary>
 <ol start="12">
+
+<li><strong>[Nov 2024]</strong> One first-author paper titled <a href="https://arxiv.org/abs/2411.09148">Toward Democratized Generative AI in Next-Generation Mobile Edge Networks</a> has been submitted to <strong>IEEE Network</strong>.</li>
+
+<li><strong>[Nov 2024]</strong> We will organize a special session <a href="https://www.ccai.net/SS2.html">"Integrated Communication, Sensing, and Computation for UAV Wireless Networks"</a> in IEEE International Conference on Computer Communication and Artificial Intelligence (CCAI), Haikou, China. Welcome to submit papers!</li>
+
+<li><strong>[Nov 2024]</strong> Our paper titled <a href="https://arxiv.org/abs/2411.09146">Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach</a> has been submitted to <strong>IEEE TWC</strong>.</li>
+
+<li><strong>[Nov 2024]</strong> Our paper titled <strong>Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks</strong> has been submitted to <strong>IEEE TVT</strong>.</li>
+
+<li><strong>[Nov 2024]</strong> Our 3 papers have been submitted to <strong>IEEE ICC 2025</strong>.</li>
+
+<li><strong>[Nov 2024]</strong> Our paper titled <a href="https://arxiv.org/abs/2409.14031">Signal Detection in Near-field Communication with Unknown Noise Characteristics: A Diffusion Model Method</a> has been submitted to <strong>IEEE TNNLS</strong>.</li>
+
+<li><strong>[Sep 2024]</strong> Our paper titled <strong>SWIPTNet: A Unified Deep Learning Framework for SWIPT based on GNN and Transfer Learning</strong> has been submitted to <strong>IEEE TMC</strong>.</li>
+
+<li><strong>[Sep 2024]</strong> Our paper titled <a href="https://ieeexplore.ieee.org/abstract/document/10697206">Rate-Splitting for Cell-Free Massive MIMO: Performance Analysis and Generative AI Approach</a> has been ACCEPTED at <strong>IEEE TCOM</strong>.</li>
+
+<li><strong>[Sep 2024]</strong> Our paper titled <a href="https://arxiv.org/abs/2409.17506">Optimizing Resource Allocation for Multi-modal Semantic Communication in Mobile AIGC Networks: A Diffusion-based Game Approach</a> has been submitted to <strong>IEEE TCCN</strong>.</li>
+
+<li><strong>[Sep 2024]</strong> Our paper titled <strong>STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization</strong> has been submitted to <strong>IEEE TCCN</strong>.</li>
+
+<li><strong>[Aug 2024]</strong> Our paper titled <a href="https://ieeexplore.ieee.org/document/10660523/">SEE Maximization in RIS-aided Network with RSMA: A PPO-SCF Method</a> has been ACCEPTED at <strong>IEEE WCL</strong>.</li>
+
+<li><strong>[Aug 2024]</strong> One first-author paper titled <a href="https://arxiv.org/abs/2311.06523">Generative AI for Space-Air-Ground Integrated Networks</a> has been ACCEPTED at <strong>IEEE WCM</strong>.</li>
+
+<li><strong>[Aug 2024]</strong> One first-author paper titled <a href="https://arxiv.org/abs/2404.09134">Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission</a> has been ACCEPTED at <strong>IEEE JSAC</strong>.</li>
+
+<li><strong>[Aug 2024]</strong> I visited <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> in <font color=green>Korea</font>, hosted by Prof. <a href="https://wireless.skku.edu/main/sub_page.php?page_idx=374">Dong In Kim</a>. It was so impressive and memorable!</li>
+
+<li><strong>[July 2024]</strong> Our tutorial proposal <strong>"Empowering Networks with GAI: Fundamentals, Methodologies, and Applications"</strong> has been ACCEPTED for presentation as a half-day tutorial at <strong>IEEE GLOBECOM 2024</strong>. (Let us go to South Africa! ^_^)</li>
+
+<li><strong>[July 2024]</strong> Our paper titled <strong>Optimizing AoI in RIS-aided Wireless Powered Communication Networks</strong> has been ACCEPTED at the <strong>IEEE ICCC wks 2024</strong>. (Let us go to Hangzhou! ^_^)</li>
+
+<li><strong>[July 2024]</strong> Our paper titled <strong>Robust Optical Quantum Imaging Network with Entangled Photons in Oceanic Turbulent Environments</strong> has been submitted to <strong>IEEE TCOM</strong>.</li>
+
+<li><strong>[June 2024]</strong> I attended the <strong>IEEE VTC-Spring’24</strong> and <strong>SG 6G Summit’24</strong> held in Singapore. Very happy to meet old friends and make new friends!</li>
+
+<li><strong>[June 2024]</strong> I am delighted to give a talk about <strong>Generative AI for Low-Carbon Artificial Intelligence of Things</strong> in NTU-Tsinghua AIR Workshop on Computational Sustainability in Digital Infrastructures.</li>
+
 
 <li><strong>[May 2024]</strong> One first-author paper titled <a href="https://arxiv.org/abs/2404.09134">Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission</a> submitted to <strong>IEEE JSAC</strong> got major revision decision.</li>
 
