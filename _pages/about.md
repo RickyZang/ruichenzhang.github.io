@@ -167,11 +167,13 @@ Some Reprenstive Papers
 10. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)
 
 11.  **R. Zhang**, J. He, X. Luo, D. Niyato, J. Kang, Z. Xiong, Y. Li, B. Sikdar, ["Toward Democratized Generative AI in Next-Generation Mobile Edge
-  Networks"](https://arxiv.org/abs/2411.09148),  ***IEEE Network***, 2023.  (IF: 6.8, An2)   
+  Networks"](https://arxiv.org/abs/2502.16866),  ***IEEE Network***, 2023.  (IF: 6.8, An2)
 
-12. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, D. I. Kim, ["Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts"](https://arxiv.org/abs/2405.12472),  submitted to ***IEEE Vehicular Technology Magazine***, 2024.  (IF: 5.8, An2)   
+12. **R. Zhang**, S. Tang,  Y. Liu, D. Niyato, Z. Xiong, S. Sun, S. Mao, Z. Han, ["Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking"](https://arxiv.org/abs/2502.16866),  submitted to ***IEEE Communications Magazine***, 2024.  (IF: 8.3, An1)
 
-13. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.  
+13. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, D. I. Kim, ["Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts"](https://arxiv.org/abs/2405.12472),  submitted to ***IEEE Vehicular Technology Magazine***, 2024.  (IF: 5.8, An2)   
+
+14. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.  
 
 
 
