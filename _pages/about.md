@@ -185,9 +185,9 @@ Some Reprenstive Papers
 
 14. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.  
 
-15. J. Cao, M. Zhou, **R. Zhang***, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),  ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
+15. J. Cao, M. Zhou, __R. Zhang*__, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),  ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
 
-16. Y. Guo, J. Fan, **R. Zhang***, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
+16. Y. Guo, J. Fan, __R. Zhang*__, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
 
 
 
