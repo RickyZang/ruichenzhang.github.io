@@ -26,12 +26,21 @@ Highlight
 News
 ======
 
+1. **[Mar 2025]**   One corresponding author paper titled [Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach](https://arxiv.org/abs/2411.09146) has been ACCEPTED at **IEEE TWC**.
 
-1. **[Feb 2025]**  One first-author paper titled **Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking** has been submitted to **IEEE COMMAG**.
+1. **[Mar 2025]**   One first-author paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method](https://arxiv.org/abs/2501.01141) has got **Major Revision**
 
-1. **[Feb 2025]**  Our paper titled **Intelligent Mobile AI-Generated Content Services via Interactive Prompt Engineering and Dynamic Service Provisioning** has been submitted to **IEEE TMC**.
+1. **[Mar 2025]**  Our paper titled [Wireless Hallucination in Generative AI-enabled Communications: Concepts, Issues, and Solutions](https://arxiv.org/abs/2503.06149) has been submitted to **IEEE COMMAG**.
+.
+1. **[Mar 2025]**  Our 2 papers have been ACCEPTED at **IEEE IWCMC**
+   
+1. **[Mar 2025]**  Our 2 papers have been ACCEPTED at **IEEE ICC WKS**
 
-1. **[Feb 2025]**  Our paper titled **Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking** has been submitted to **IEEE COMMAG**.
+1. **[Feb 2025]**  One first-author paper titled [Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking](https://arxiv.org/abs/2502.16866) has been submitted to **IEEE COMMAG**.
+
+1. **[Feb 2025]**  Our paper titled [Intelligent Mobile AI-Generated Content Services via Interactive Prompt Engineering and Dynamic Service Provisioning](https://arxiv.org/abs/2502.11386) has been submitted to **IEEE TMC**.
+
+1. **[Feb 2025]**  Our paper titled [Generative AI-enabled Wireless Communications for Robust Low-Altitude Economy Networking](https://arxiv.org/abs/2502.18118) has been submitted to **IEEE COMMAG**.
 
 1. **[Feb 2025]**  Our paper titled **Joint Scheduling and Power Control in AoI-Oriented WP-IoT Networks: An HVF-based PPO Approach** has been submitted to **IEEE TVT**.
 
@@ -56,7 +65,7 @@ News
 
 1. **[Jan 2025]** Our paper titled **BanditMatch: A Game-theoretic Approach for Stable Preference Matching in Peer-to-Peer Federated Learning**  has been submitted to **IEEE TVT**.
 
-1. **[Jan 2025]** I am honored to join as a **Managing Editor** of IEEE Transactions on Network Science and Engineering (IEEE TNSE).  I look forward to contributing to TNSE and the broader research community.
+1. **[Jan 2025]** I am honor to join as a **Managing Editor** of IEEE Transactions on Network Science and Engineering (IEEE TNSE).  I look forward to contributing to TNSE and the broader research community.
 
 1. **[Dec 2024]** One first-author paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method](https://arxiv.org/abs/2501.01141) has been submitted to **IEEE TMC**
 
@@ -176,6 +185,9 @@ Some Reprenstive Papers
 
 14. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.  
 
+15. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),  ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
+
+16. Y. Guo, J. Fan, **R. Zhang^**, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
 
 
 
