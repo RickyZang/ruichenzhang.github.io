@@ -26,7 +26,7 @@ Highlight
 News
 ======
 
-1. **[Mar 2025]**   One corresponding author paper titled [LAURA: LLM-Assisted UAV Routing for AoI Minimization](https://arxiv.org/abs/2503.23132) has been ACCEPTED at **IEEE TVT**.
+1. **[Mar 2025]**   One corresponding author paper titled [LAURA: LLM-Assisted UAV Routing for AoI Minimization](https://arxiv.org/abs/2503.23132) has been submitted to **IEEE TVT**.
 
 1. **[Mar 2025]**   One paper titled [STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization](https://arxiv.org/abs/2411.09154) has been ACCEPTED at **IEEE TCCN**.
 
