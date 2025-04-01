@@ -26,6 +26,10 @@ Highlight
 News
 ======
 
+1. **[Mar 2025]**   One corresponding author paper titled [LAURA: LLM-Assisted UAV Routing for AoI Minimization](https://arxiv.org/abs/2503.23132) has been ACCEPTED at **IEEE TVT**.
+
+1. **[Mar 2025]**   One paper titled [STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization](https://arxiv.org/abs/2411.09154) has been ACCEPTED at **IEEE TCCN**.
+
 1. **[Mar 2025]**   One corresponding author paper titled [Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach](https://arxiv.org/abs/2411.09146) has been ACCEPTED at **IEEE TWC**.
 
 1. **[Mar 2025]**   One first-author paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method](https://arxiv.org/abs/2501.01141) has got **Major Revision**
