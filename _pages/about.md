@@ -26,6 +26,10 @@ Highlight
 News
 ======
 
+1. **[Apr 2025]**   One paper titled **A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks** has ACCEPTED at **IEEE TCCN**.
+
+1. **[Mar 2025]**   One corresponding author paper titled [Towards Secure Semantic Communications in the Presence of Intelligent Eavesdroppers](https://arxiv.org/abs/2503.23103) has been submitted to **IEEE TMC**.
+
 1. **[Mar 2025]**   One corresponding author paper titled [LAURA: LLM-Assisted UAV Routing for AoI Minimization](https://arxiv.org/abs/2503.23132) has been submitted to **IEEE TVT**.
 
 1. **[Mar 2025]**   One paper titled [STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization](https://arxiv.org/abs/2411.09154) has been ACCEPTED at **IEEE TCCN**.
