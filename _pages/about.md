@@ -19,16 +19,38 @@ If you have any questions or are interested in collaborating with me, please fee
 Highlight
 ======
 
-1. **Call for Papers**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”, **lead guest editor**.
-2. I am honored to join as a **Managing Editor** of [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).  I look forward to contributing to TNSE and the broader research community.
+1. **Call for Papers**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”, **Lead Guest Editor**.
+2. **Call for Papers**: IEEE Globecom Workshop **Agentic AI Empowered Wireless Communications and Networking**, **Lead Co-Chair**
+3. I am honored to join as a **Managing Editor** of [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).  I look forward to contributing to TNSE and the broader research community.
 
 
 News
 ======
 
-1. **[Apr 2025]**   One paper titled **A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks** has ACCEPTED at **IEEE TCCN**.
+1. **[May 2025]**   Our IEEE Globecom Workshop **Agentic AI Empowered Wireless Communications and Networking** has been approved. Welcome to submit your papers!
 
-1. **[Mar 2025]**   One corresponding author paper titled [Towards Secure Semantic Communications in the Presence of Intelligent Eavesdroppers](https://arxiv.org/abs/2503.23103) has been submitted to **IEEE TMC**.
+1. **[Apr 2025]**   One first-author paper titled **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA** has been submitted to **IEEE Globecom**.
+
+1. **[Apr 2025]**   One first-author paper titled [Covert Prompt Transmission for Secure Large Language Model Services](https://arxiv.org/abs/2504.21311) has been submitted to **IEEE JSAC**.
+
+1. **[Apr 2025]**   Our 3 papers have been submitted to **IEEE Globecom**.
+
+1. **[Apr 2025]**   One author paper [SWIPTNet: a Unified Deep Learning Framework for SWIPT Based on GNN and Transfer Learning](https://ieeexplore.ieee.org/document/10975144) has been ACCEPTED at **IEEE TMC**.
+
+1. **[Apr 2025]**   One corresponding author paper [Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks](https://ieeexplore.ieee.org/document/10980058) has been ACCEPTED at **IEEE TVT**.
+
+
+1. **[Apr 2025]**   One paper titled [Decentralization of Generative AI via Mixture of Experts for Wireless Networks: A Comprehensive Survey](https://arxiv.org/abs/2504.19660) has been submitted to **IEEE COMST**.
+
+1. **[Apr 2025]**   One paper titled [Aerial Active STAR-RIS-assisted Satellite-Terrestrial Covert Communications](https://arxiv.org/abs/2504.16146) has been submitted to **IEEE JSAC**.
+
+1. **[Apr 2025]**   One paper titled [Secure Physical Layer Communications for Low-Altitude Economy Networking: A Survey](https://arxiv.org/abs/2504.09153) has been submitted to **IEEE COMST**.
+
+
+1. **[Apr 2025]**   One paper titled [A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks](https://ieeexplore.ieee.org/abstract/document/10955732/) has ACCEPTED at **IEEE TCCN**.
+
+
+1. **[Mar 2025]**   One author paper titled [Towards Secure Semantic Communications in the Presence of Intelligent Eavesdroppers](https://arxiv.org/abs/2503.23103) has been submitted to **IEEE TMC**.
 
 1. **[Mar 2025]**   One corresponding author paper titled [LAURA: LLM-Assisted UAV Routing for AoI Minimization](https://arxiv.org/abs/2503.23132) has been submitted to **IEEE TVT**.
 
@@ -54,41 +76,22 @@ News
 
 1. **[Feb 2025]** One first-author paper titled [Toward Democratized Generative AI in Next-Generation Mobile Edge Networks](https://arxiv.org/abs/2411.09148) has been ACCEPTED at **IEEE Network**.
 
-1. **[Jan 2025]** Our paper titled **MaxMB:A Signal Detector for OFDM Receiver Based on Multi-Axis Attention and MBConv** has been submitted to **IEEE TVT**.
 
-1. **[Jan 2025]** Our paper titled **LVFUS: A Lightweight Vertical Federated Unlearning Framework via Adaptive Optimizer Switching** has been submitted to **IJCAI**.
-
-1. **[Jan 2025]** Our paper titled **Deep Learning Approaches for Anti-Money Laundering on Mobile Transactions: Review, Framework, and Directions** has been submitted to **IEEE IoTJ**.
-
-
-1. **[Jan 2025]** One corresponding author paper titled **Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments** has been ACCEPTED at **IEEE TCOM**.
-
-1. **[Jan 2025]** Our paper titled has been [Advancing Generative Artificial Intelligence and Large Language Models for Demand Side Management with Electric Vehicles](https://arxiv.org/abs/2501.15544) submitted to **IEEE IoTM**.
-
-1. **[Jan 2025]** Our paper titled[Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System](http://arxiv.org/abs/2501.15091) has been submitted to **IEEE TVT**.
-
-1. **[Jan 2025]** Our paper titled  [Empowering Large Language Models in Wireless Communication: A Novel Dataset and Fine-Tuning Framework](https://arxiv.org/abs/2501.09631) has been submitted to **IEEE TCOM**.
-
-1. **[Jan 2025]** Our paper titled **A Survey of Integrating Generative Artificial Intelligence and 6G Mobile Services: Architectures, Solutions, Technologies and Outlooks**  has been submitted to **IEEE TCCN**.
-
-1. **[Jan 2025]** Our paper titled **BanditMatch: A Game-theoretic Approach for Stable Preference Matching in Peer-to-Peer Federated Learning**  has been submitted to **IEEE TVT**.
 
 1. **[Jan 2025]** I am honor to join as a **Managing Editor** of IEEE Transactions on Network Science and Engineering (IEEE TNSE).  I look forward to contributing to TNSE and the broader research community.
-
-1. **[Dec 2024]** One first-author paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Large Language Models and Reinforcement Learning Method](https://arxiv.org/abs/2501.01141) has been submitted to **IEEE TMC**
-
-1. **[Dec 2024]** Our paper titled [Retrieval-augmented Generation for GenAI-enabled Semantic Communications](https://arxiv.org/abs/2412.19494) has been submitted to **IEEE WCM**
-
-1. **[Dec 2024]** Our paper titled [Adaptive Pruning for Large Language Models with Structural Importance Awareness](https://arxiv.org/pdf/2412.15127) has been submitted to **IEEE TAI**
-
-1. **[Dec 2024]** Our paper titled [When Graph Meets Retrieval Augmented Generation for Wireless Networks: A Tutorial and Case Study](https://arxiv.org/abs/2412.07189) has been submitted to **IEEE WCM**
-
-1. **[Dec 2024]** Our paper titled [Hallucination-aware Optimization for Large Language Model-empowered Communications](https://arxiv.org/abs/2412.06007) has been submitted to **IEEE COMMAG**
 
 
 <details>
 <summary><strong>More News</strong></summary>
 <ol start="12">
+  
+<li><strong>[Jan 2025]</strong> Our paper titled <strong>MaxMB: A Signal Detector for OFDM Receiver Based on Multi-Axis Attention and MBConv</strong> has been submitted to <strong>IEEE TVT</strong>.</li>
+
+<li><strong>[Jan 2025]</strong> Our paper titled <strong>LVFUS: A Lightweight Vertical Federated Unlearning Framework via Adaptive Optimizer Switching</strong> has been submitted to <strong>IJCAI</strong>.</li>
+
+<li><strong>[Jan 2025]</strong> Our paper titled <strong>Deep Learning Approaches for Anti-Money Laundering on Mobile Transactions: Review, Framework, and Directions</strong> has been submitted to <strong>IEEE IoTJ</strong>.</li>
+
+<li><strong>[Jan 2025]</strong> One corresponding author paper titled <strong>Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments</strong> has been <strong>ACCEPTED</strong> at <strong>IEEE TCOM</strong>.</li>
 
 
 <li><strong>[Jan 2025]</strong> Our paper titled <a href="https://arxiv.org/abs/2501.15544">Advancing Generative Artificial Intelligence and Large Language Models for Demand Side Management with Electric Vehicles</a> has been submitted to <strong>IEEE IoTM</strong>.</li>
@@ -214,7 +217,7 @@ Some Reprenstive Papers
 
 15. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.
 
-16.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA, submitted to ***IEEE Globecom***, 2025.
+16.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA**, submitted to ***IEEE Globecom***, 2025.
 
 17. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),  ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
 
