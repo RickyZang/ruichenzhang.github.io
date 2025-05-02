@@ -239,10 +239,12 @@ Awards
 
 Academic Services
 ======
-1. **Managing Editor, IEEE Transactions on Network Science and Engineering (2025-)**
-2. **Workshop Co-chair**, “Integrated Communication, Sensing, and Computation for UAV Wireless Networks” in IEEE CCAI 2024.
-3. **TPC Member**, IEEE GLOBECOM 2024, IEEE PIMRC 2024, Track 2 - Networking & MAC, etc.
-4. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
+1. **Managing Editor, IEEE Transactions on Network Science and Engineering (2025-)**.
+2. **Lead Guest Editor, IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)**.
+2.  **Lead Co-Chair, IEEE Globecom Workshop 2025**.
+3. **Workshop Co-chair**, “Integrated Communication, Sensing, and Computation for UAV Wireless Networks” in IEEE CCAI 2024.
+4. **TPC Member**, IEEE GLOBECOM 2024, IEEE PIMRC 2024, Track 2 - Networking & MAC, etc.
+5. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
 
 ---
 
