@@ -43,10 +43,12 @@ News
 
 1. **[June 2025]**   One paper titled **A Framework on Order-Reduction Optimization for Array-Assisted Communications** has been submitted to **IEEE TCOM**.
 
-1. **[JUne 2025]**   One paper titled [World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks](https://arxiv.org/abs/2506.00417) has been submitted to **IEEE COMMAG**.
-
+1. **[June 2025]**   One paper titled [World Models for Cognitive Agents: Transforming Edge Intelligence in Future Networks](https://arxiv.org/abs/2506.00417) has been submitted to **IEEE COMMAG**.
 
 1. **[June 2025]**   One first-author paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Vision Language Models and Reinforcement Learning Method](https://arxiv.org/abs/2501.01141) has been ACCEPTED at **IEEE TMC**.
+
+
+1. **[June 2025]**   One paper titled [Embodied AI-Enhanced Vehicular Networks: An Integrated Vision Language Models and Reinforcement Learning Method](https://ieeexplore.ieee.org/document/11059888) has been ACCEPTED at **IEEE TPAMI**.
 
 
 1. **[May 2025]**   One paper titled [Chain-of-Thought for Large Language Model-empowered Wireless Communications](https://arxiv.org/abs/2505.22320) has been submitted to **IEEE COMMAG**.
@@ -256,9 +258,9 @@ Some Reprenstive Papers
 
 16.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA**, submitted to ***IEEE Globecom***, 2025.
 
-17. H. Du, **R. Zhang**, D. Niyato, J. Kang, Z. Xiong, S. Cui, X. Shen, D. I. Kim, ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://ieeexplore.ieee.org/document/11059888),  ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
+17. H. Du, **R. Zhang**, D. Niyato, J. Kang, Z. Xiong, S. Cui, X. Shen, D. I. Kim, ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://ieeexplore.ieee.org/document/11059888),  ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, accepted, 2025.  (IF: 18.6, An1) 
 
-18. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),  ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, accepted, 2025.  (IF: 18.6, An1) 
+18. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),   ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
 
 19. Y. Guo, J. Fan, **R. Zhang^**, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
 
