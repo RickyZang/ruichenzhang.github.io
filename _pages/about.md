@@ -10,7 +10,7 @@ redirect_from:
 Hi! I am currently a Postdoctoral Research Fellow at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU), Singapore, supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President's Chair Professor, FIEEE). Prior to this, I obtained my PhD degree at Beijing Jiaotong University in Sept. 2023, Beijing, China, under the guidance of Prof. [Ke Xiong](https://scholar.google.nl/citations?user=Bt_z_14AAAAJ&hl=en) and Prof. [Yang Lu](https://scholar.google.com/citations?user=EJj7uN0AAAAJ&hl=zh-en).
 
 
-I am also honored to serve as a Managing Editor of the [IEEE Transactions on Network Science and Engineering](https://www.comsoc.org/publications/journals/ieee-tnse) (IEEE TNSE), assisting the Editor-in-Chief and the entire editorial board in supporting the journal and the broader research community. My research primarily focuses on AI for networking, including **generative AI-enabled networking**, **large language models empowered networking**, and **reinforcement learning-enabled wireless communication networks**. If you are interested in my (our group) work, you may refer to this [repository](https://jyc5559.github.io/GAINET.github.io/) for the latest updates of our group! Moreover, I am also doing some novel AI models to get meaningful information on the plasma turbulence field. If you are also interested, please refer to this [repository](https://ntufusion.github.io/).
+I am also honored to serve as a **Managing Editor** of the [IEEE Transactions on Network Science and Engineering](https://www.comsoc.org/publications/journals/ieee-tnse) (IEEE TNSE), assisting the Editor-in-Chief and the entire editorial board in supporting the journal and the broader research community. My research primarily focuses on AI for networking, including **generative AI-enabled networking**, **large language models empowered networking**, and **reinforcement learning-enabled wireless communication networks**. If you are interested in my (our group) work, you may refer to this [repository](https://jyc5559.github.io/GAINET.github.io/) for the latest updates of our group! Moreover, I am also doing some novel AI models to get meaningful information on the plasma turbulence field. If you are also interested, please refer to this [repository](https://ntufusion.github.io/).
 
 
 If you have any questions or are interested in collaborating with me, please feel free to email me (ruichen.zhang@ntu.edu.sg)!
@@ -18,10 +18,12 @@ If you have any questions or are interested in collaborating with me, please fee
 
 Highlight
 ======
-
-1. **Call for Papers**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”, **Lead Guest Editor**.
-2. **Call for Papers**: IEEE Globecom Workshop **Agentic AI Empowered Wireless Communications and Networking**, **Lead Co-Chair**
-3. I am honored to join as a **Managing Editor** of [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).  I look forward to contributing to TNSE and the broader research community.
+1. **Managing Editor**:  [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).  
+2. **Call for Papers**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”, **Lead Guest Editor**.
+3.  **Call for Papers**:  IEEE Transactions on Artificial Intelligence Special Issue on “[Sustainable Large AI Models for Edge Intelligence](https://cis.ieee.org/images/files/Documents/call-for-special-issues/TAI/_SI_TAI_CFP.pdf)”, **Guest Editor**.
+4.  **Call for Papers**:  IEEE Journal of Selected Areas in Sensors Special Issue on “[Trustworthy and Safe Generative Artificial Intelligence and Large Language
+ Models (LLMs) for Sensor IoT](https://ieee-jsas.org/wp-content/uploads/2025/05/LLM-CFP.docx.pdf)”, **Guest Editor**.
+5. **Call for Papers**: IEEE Globecom Workshop “[Agentic AI Empowered Wireless Communications and Networking](https://globecom2025.ieee-globecom.org/workshop/ws-05-agentic-ai-empowered-wireless-communications-and-networking)”, **Lead Co-Chair**
 
 
 News
@@ -254,29 +256,38 @@ Some Reprenstive Papers
 
 16.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA**, submitted to ***IEEE Globecom***, 2025.
 
-17. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),  ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
+17. H. Du, **R. Zhang**, D. Niyato, J. Kang, Z. Xiong, S. Cui, X. Shen, D. I. Kim, ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://ieeexplore.ieee.org/document/11059888),  ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
 
-18. Y. Guo, J. Fan, **R. Zhang^**, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
+18. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),  ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, accepted, 2025.  (IF: 18.6, An1) 
 
-19. H. Hu, **R. Zhang^**, Z. Ding, F. Jiang, R. Jiang and D. Niyato, ["Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks](https://ieeexplore.ieee.org/document/10980058)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2). 
+19. Y. Guo, J. Fan, **R. Zhang^**, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
+
+20. H. Hu, **R. Zhang^**, Z. Ding, F. Jiang, R. Jiang and D. Niyato, ["Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks](https://ieeexplore.ieee.org/document/10980058)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
+
+21.  Z. Ma, **R. Zhang^**, B. Ai, Z. Lian, L. Zeng, D. Niyato, and Y. Peng ["Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System](https://ieeexplore.ieee.org/document/11048955)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2). 
      
 
 
 
 Awards
 ======
-1. **首都前沿学术成果**, 北京市科学技术协会, 2024
-2. **Best Paper Award**, Electric Power, 2024
-3. **Best Paper Award**, Electric Power, 2023
-4. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 2021
-5.  **Multiple Scholarships**, including  **National Scholarship**, **Enterprise Scholarships**, and **University Honors**, 2014–2018; 2018-2023
+1. **Best Paper Award**, IEEE IWCMC, 2025
+2. **Best Paper Award**, IEEE IWCMC, 2025
+3. **首都前沿学术成果**, 北京市科学技术协会, 2024
+4. **Best Paper Award**, Electric Power, 2024
+5. **Best Paper Award**, Electric Power, 2023
+6. **Third Prize** in the 19th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 2021
+7.  **Multiple Scholarships**, including  **National Scholarship**, **Enterprise Scholarships**, and **University Honors**, 2014–2018; 2018-2023
 
 
 Academic Services
 ======
-1. **Managing Editor, IEEE Transactions on Network Science and Engineering (2025-)**.
-2. **Lead Guest Editor, IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)**.
-2.  **Lead Co-Chair, IEEE Globecom Workshop 2025**.
+1. **Managing Editor**:  [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).  
+2. , **Lead Guest Editor**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”.
+3. **Guest Editor***:  IEEE Transactions on Artificial Intelligence Special Issue on “[Sustainable Large AI Models for Edge Intelligence](https://cis.ieee.org/images/files/Documents/call-for-special-issues/TAI/_SI_TAI_CFP.pdf)”.
+4.  **Guest Editor**:  IEEE Journal of Selected Areas in Sensors Special Issue on “[Trustworthy and Safe Generative Artificial Intelligence and Large Language
+ Models (LLMs) for Sensor IoT](https://ieee-jsas.org/wp-content/uploads/2025/05/LLM-CFP.docx.pdf)”.
+5. **Lead Co-Chair**: IEEE Globecom Workshop “[Agentic AI Empowered Wireless Communications and Networking](https://globecom2025.ieee-globecom.org/workshop/ws-05-agentic-ai-empowered-wireless-communications-and-networking)”.
 3. **Workshop Co-chair**, “Integrated Communication, Sensing, and Computation for UAV Wireless Networks” in IEEE CCAI 2024.
 4. **TPC Member**, IEEE GLOBECOM 2024, IEEE PIMRC 2024, Track 2 - Networking & MAC, etc.
 5. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
