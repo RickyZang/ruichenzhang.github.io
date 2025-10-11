@@ -297,6 +297,7 @@ Academic Services
  Models (LLMs) for Sensor IoT](https://ieee-jsas.org/wp-content/uploads/2025/05/LLM-CFP.docx.pdf)”.
 6. 
 7. **Symposium Co-Chair**: IEEE WCSP “[Wireless Networking, Services, and Security Symposium](http://www.ic-wcsp.org/2025/show.asp?id=14)”.
+8. **Workshop Lead Chair**: IEEE Globecom “[Agentic AI Empowered Wireless Communications and Networking](https://globecom2025.ieee-globecom.org/workshop/ws-05-agentic-ai-empowered-wireless-communications-and-networking)”.
 3. **Workshop Co-chair**, “Integrated Communication, Sensing, and Computation for UAV Wireless Networks” in IEEE CCAI 2024.
 4. **TPC Member**, IEEE GLOBECOM 2024, IEEE PIMRC 2024, Track 2 - Networking & MAC, etc.
 5. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
