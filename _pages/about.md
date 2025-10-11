@@ -258,7 +258,7 @@ Some representative papers (first author and corresponding author papers)
 
 16. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.
 
-17.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA**, submitted to ***IEEE Globecom***, 2025.
+17.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA**, ***IEEE Globecom***, 2025.
 
 18. H. Du, **R. Zhang**, D. Niyato, J. Kang, Z. Xiong, S. Cui, X. Shen, D. I. Kim, ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://ieeexplore.ieee.org/document/11059888),  ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, accepted, 2025.  (IF: 18.6, An1) 
 
