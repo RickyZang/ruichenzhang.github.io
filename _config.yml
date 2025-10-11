@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ruichen's Website"
 title_separator          : "-"
 name                     : &name "Ruichen Zhang"
-description              : &description "Postdoctoral Research Fellow"
+description              : &description "Research Fellow"
 url                      : https://rickyzang.github.io/ruichenzhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RickyZang/ruichenzhang.github.io"
@@ -24,10 +24,10 @@ repository               : "RickyZang/ruichenzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bubu.jpg"
+  avatar           : "Ruichen.jpg"
   name             : "Ruichen Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Research Fellow, Nanyang Technological University"
+  bio              : "Research Fellow"
   location         : "Singapore"
   employer         : "Nanyang Technological University"
   uri              : 
