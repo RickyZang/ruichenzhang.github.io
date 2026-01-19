@@ -26,7 +26,7 @@ Highlight
 5. **Call for Papers**: IEEE Globecom Workshop “[Agentic AI Empowered Wireless Communications and Networking](https://globecom2025.ieee-globecom.org/workshop/ws-05-agentic-ai-empowered-wireless-communications-and-networking)”, **Lead Co-Chair**
 
 
-News
+<!--News
 ======
 
 1. **[July 2025]**   One paper titled **Toward Edge General Intelligence with Multiple-Large Language Model (Multi-LLM): Architecture, Trust, and Orchestration** has been submitted to **IEEE TCCN**.
@@ -215,7 +215,7 @@ News
 
 </ol>
 </details>
-
+-->
 
 
 
@@ -227,50 +227,50 @@ Some representative papers (first author and corresponding author papers)
 
 1. H. Du, **R. Zhang**, Y. Liu, J. Wang, Y. Lin, Z. Li, D. Niyato, et. al, ["Enhancing Deep Reinforcement Learning: A Tutorial on Generative Diffusion Models in Network Optimization"](https://ieeexplore.ieee.org/abstract/document/10529221), ***IEEE Communications Surveys & Tutorials***, 2024. (IF: 34.4, An1)  (Co-first author)
 
-2.  **R. Zhang**, G. Liu,  Y. Liu, C. Zhao, J. Wang, Y. Xu, D. Niyato, et. al, ["Toward Edge General Intelligence with Agentic AI and Agentification: Concepts, Technologies, and Future Directions"](https://arxiv.org/abs/2508.18725),  submitted to ***IEEE Communications Surveys & Tutorials***, 2024. (IF: 34.4, An1)  (Co-first author)
+2.  **R. Zhang**, G. Liu,  Y. Liu, C. Zhao, J. Wang, Y. Xu, D. Niyato, et. al, ["Toward Edge General Intelligence with Agentic AI and Agentification: Concepts, Technologies, and Future Directions"](https://arxiv.org/abs/2508.18725),  ***IEEE Communications Surveys & Tutorials***, 2024. (IF: 34.4, An1)
+3.  
+4. **R. Zhang**, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, ["Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission"](https://arxiv.org/abs/2404.09134),  ***IEEE Journal on Selected Areas in Communications***, 2024.  (IF: 13.8, CCF A, An1)
 
-3. **R. Zhang**, H. Du, Y. Liu, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, and D. I. Kim, ["Generative AI Agents with Large Language Model for Satellite Networks via a Mixture of Experts Transmission"](https://arxiv.org/abs/2404.09134),  ***IEEE Journal on Selected Areas in Communications***, 2024.  (IF: 13.8, CCF A, An1)
+5. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, CCF A, An1)  <br/> <font color="#CC5500"><i>&bull; Selected by ESI Highly Cited Paper <i><font>
 
-4. **R. Zhang**, K. Xiong, Y. Lu, P.  Fan, D. W. K. Ng, and K. B. Letaief, ["Energy Efficiency Maximization in RIS-assisted SWIPT Networks with RSMA: A PPO-based Approach"](https://ieeexplore.ieee.org/document/10032267), ***IEEE Journal on Selected Areas in Communications***, vol. 41, no. 5, pp. 1413-1430, May 2023. (IF: 13.8, CCF A, An1)  <br/> <font color="#CC5500"><i>&bull; Selected by ESI Highly Cited Paper <i><font>
+6. **R. Zhang**, K. Xiong, Y. Lu, B. Gao, P.  Fan, D and K. B. Letaief, ["Joint coordinated beamforming and power splitting ratio optimization in MU-MISO SWIPT-enabled HetNets: A multi-agent DDQN-based approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Journal on Selected Areas in Communications***, vol. 40, no. 2, pp. 677-693, Feb. 2022.  (IF: 13.8, CCF A, An1)
 
-5. **R. Zhang**, K. Xiong, Y. Lu, B. Gao, P.  Fan, D and K. B. Letaief, ["Joint coordinated beamforming and power splitting ratio optimization in MU-MISO SWIPT-enabled HetNets: A multi-agent DDQN-based approach"](https://ieeexplore.ieee.org/document/9575181), ***IEEE Journal on Selected Areas in Communications***, vol. 40, no. 2, pp. 677-693, Feb. 2022.  (IF: 13.8, CCF A, An1)
+7. **R. Zhang**, K. Xiong, Y. Lu, D. W. K. Ng, P.  Fan, and K. B. Letaief, ["SWIPT-enabled Cell-Free Massive MIMO-NOMA Networks: A Machine Learning based Approach"](https://ieeexplore.ieee.org/document/10304612/), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
 
-6. **R. Zhang**, K. Xiong, Y. Lu, D. W. K. Ng, P.  Fan, and K. B. Letaief, ["SWIPT-enabled Cell-Free Massive MIMO-NOMA Networks: A Machine Learning based Approach"](https://ieeexplore.ieee.org/document/10304612/), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
+8. **R. Zhang**, C. Zhao, H. Du, D. Niyato, J. Wang,   S. Sawadsitang, X. Shen, and D. I. Kim, ["Embodied AI-Enhanced Vehicular Networks: An Integrated Vision Language Models and Reinforcement Learning Method"](https://arxiv.org/abs/2501.01141), ***IEEE Transactions on Mobile Computing***, 2024.  (IF: 7.7, CCF A, An2)
 
-7. **R. Zhang**, C. Zhao, H. Du, D. Niyato, J. Wang,   S. Sawadsitang, X. Shen, and D. I. Kim, ["Embodied AI-Enhanced Vehicular Networks: An Integrated Vision Language Models and Reinforcement Learning Method"](https://arxiv.org/abs/2501.01141), ***IEEE Transactions on Mobile Computing***, 2024.  (IF: 7.7, CCF A, An2)
-
-8. **R. Zhang**, Y. Liu, S. Tang, J. Wang, D. Niyato, G. Sun,  Y. Li, and S. Sun, ["Covert Prompt Transmission for Secure Large Language Model Services"](https://arxiv.org/abs/2504.21311),  ***IEEE Journal on Selected Areas in Communications***, 2025.  (IF: 13.8, CCF A, An1)
+9. **R. Zhang**, Y. Liu, S. Tang, J. Wang, D. Niyato, G. Sun,  Y. Li, and S. Sun, ["Covert Prompt Transmission for Secure Large Language Model Services"](https://arxiv.org/abs/2504.21311),  ***IEEE Journal on Selected Areas in Communications***, 2025.  (IF: 13.8, CCF A, An1)
    
-9.  **R. Zhang**, K. Xiong, W. Guo, X. Yang, P. Fan and K. B. Letaief, ["Q-Learning-Based Adaptive Power Control in Wireless RF Energy Harvesting Heterogeneous Networks"](https://ieeexplore.ieee.org/abstract/document/9195488),  ***IEEE System Journal***, vol. 15, no. 2, pp. 1861-1872, June 2021.  (IF: 4, An2)  
+10.  **R. Zhang**, K. Xiong, W. Guo, X. Yang, P. Fan and K. B. Letaief, ["Q-Learning-Based Adaptive Power Control in Wireless RF Energy Harvesting Heterogeneous Networks"](https://ieeexplore.ieee.org/abstract/document/9195488),  ***IEEE System Journal***, vol. 15, no. 2, pp. 1861-1872, June 2021.  (IF: 4, An2)  
 
-10. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, P. Zhang, D. I. Kim, ["Generative AI for Space-Air-Ground Integrated Networks "](https://arxiv.org/abs/2311.06523), ***IEEE Wireless Communications***,  accepted, 2024.  (IF: 10.9, An1)  
+11. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, A. Jamalipour, P. Zhang, D. I. Kim, ["Generative AI for Space-Air-Ground Integrated Networks "](https://arxiv.org/abs/2311.06523), ***IEEE Wireless Communications***,  accepted, 2024.  (IF: 10.9, An1)  
 
-11. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"]([https://arxiv.org/abs/2404.09134](https://ieeexplore.ieee.org/abstract/document/10506539)),  ***IEEE Network***, 2024.  (IF: 6.8, An2)   <font color="#CC5500"><i>&bull; Selected by IEEE Network Popular Documents - Jul. and Aug. 2024 <i><font>
+12. **R. Zhang**, K. Xiong, H. Du, D. Niyato, J. Kang, X. Shen and H. Poor, ["Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study"]([https://arxiv.org/abs/2404.09134](https://ieeexplore.ieee.org/abstract/document/10506539)),  ***IEEE Network***, 2024.  (IF: 6.8, An2)   <font color="#CC5500"><i>&bull; Selected by IEEE Network Popular Documents - Jul. and Aug. 2024 <i><font>
 
-12. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)
+13. **R. Zhang**, H. Du, Yinqiu Liu, D. Niyato, J. Kang, Sumei Sun, X. Shen and H. Poor, ["Interactive AI with Retrieval-Augmented Generation for Next Generation Networking"](https://arxiv.org/pdf/2401.11391),  ***IEEE Network***, 2024.  (IF: 6.8, An2)
 
-13.  **R. Zhang**, J. He, X. Luo, D. Niyato, J. Kang, Z. Xiong, Y. Li, B. Sikdar, ["Toward Democratized Generative AI in Next-Generation Mobile Edge
+14.  **R. Zhang**, J. He, X. Luo, D. Niyato, J. Kang, Z. Xiong, Y. Li, B. Sikdar, ["Toward Democratized Generative AI in Next-Generation Mobile Edge
   Networks"](https://arxiv.org/abs/2502.16866),  ***IEEE Network***, 2023.  (IF: 6.8, An2)
 
-14. **R. Zhang**, S. Tang,  Y. Liu, D. Niyato, Z. Xiong, S. Sun, S. Mao, Z. Han, ["Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking"](https://arxiv.org/abs/2502.16866),   ***IEEE Communications Magazine***, 2024.  (IF: 8.3, An1)
+15. **R. Zhang**, S. Tang,  Y. Liu, D. Niyato, Z. Xiong, S. Sun, S. Mao, Z. Han, ["Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking"](https://arxiv.org/abs/2502.16866),   ***IEEE Communications Magazine***, 2024.  (IF: 8.3, An1)
 
-15. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, D. I. Kim, ["Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts"](https://arxiv.org/abs/2405.12472),  ***IEEE Vehicular Technology Magazine***, 2024.  (IF: 5.8, An2)   
+16. **R. Zhang**, H. Du, D. Niyato, J. Kang, Z. Xiong, P. Zhang, D. I. Kim, ["Optimizing Generative AI Networking: A Dual Perspective with Multi-Agent Systems and Mixture of Experts"](https://arxiv.org/abs/2405.12472),  ***IEEE Vehicular Technology Magazine***, 2024.  (IF: 5.8, An2)   
 
-16. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.
+17. **R. Zhang**, K. Xiong, X. Tian, Y. Lu, P. Fan and K. B. Letaief, ["Inverse Reinforcement learning Meets Power Allocation in Multi-user Celluar Networks"](https://ieeexplore.ieee.org/document/9798257),  ***IEEE INFOCOM WKS***, 2022.
 
-17.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA**, ***IEEE Globecom***, 2025.
+18.  **R. Zhang**, J. Wang, Y. Liu,  G. Sun, D. Niyato, S. Mao, and S. Sun, **STELLAR: Large Language Model-Assisted Optimization for Satellite Networks with RSMA**, ***IEEE Globecom***, 2025.
 
-18. H. Du, **R. Zhang**, D. Niyato, J. Kang, Z. Xiong, S. Cui, X. Shen, D. I. Kim, ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://ieeexplore.ieee.org/document/11059888),  ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, accepted, 2025.  (IF: 18.6, An1) 
+19. H. Du, **R. Zhang**, D. Niyato, J. Kang, Z. Xiong, S. Cui, X. Shen, D. I. Kim, ["Reinforcement Learning With LLMs Interaction For Distributed Diffusion Model Services"](https://ieeexplore.ieee.org/document/11059888),  ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, accepted, 2025.  (IF: 18.6, An1) 
 
-19. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),   ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
+20. J. Cao, M. Zhou, **R. Zhang^**, D. Niyato, W. Nie, Z. Han, ["Robust Optical Quantum Imaging Framework with Entangled Photons in Oceanic Turbulent Environments"](https://ieeexplore.ieee.org/abstract/document/10872958),   ***IEEE Transactions on Communications***, accepted, 2024.  (IF: 7.2, An2) 
 
-20. Y. Guo, J. Fan, **R. Zhang^**, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
+21. Y. Guo, J. Fan, **R. Zhang^**, B. Zhang, D. W. K. Ng, D. Niyato, D. I. Kim, ["Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach"](https://arxiv.org/abs/2411.09146), ***IEEE Transactions on Wireless Communications***, accepted, 2024.  (IF: 8.9, An1)
 
-21. H. Hu, **R. Zhang^**, Z. Ding, F. Jiang, R. Jiang and D. Niyato, ["Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks](https://ieeexplore.ieee.org/document/10980058)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
+22. H. Hu, **R. Zhang^**, Z. Ding, F. Jiang, R. Jiang and D. Niyato, ["Optimizing AoI in RIS-aided Wireless Powered Backscatter-Active Communication Networks](https://ieeexplore.ieee.org/document/10980058)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
 
-22.  Z. Ma, **R. Zhang^**, B. Ai, Z. Lian, L. Zeng, D. Niyato, and Y. Peng ["Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System](https://ieeexplore.ieee.org/document/11048955)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
-23.  H. Hu, Haizhou Tang, **R. Zhang^**, F. Jiang, Z. Ding,  and D. Niyato, ["Joint Scheduling and Power Control in AoI-Oriented WP-IoT Networks: An HVF-Based PPO Approach](https://ieeexplore.ieee.org/document/11193853)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
-24.  H. Hu, Qiuyu Yu, **R. Zhang^**, Yinghui Ye, F. Jiang, J. Jiang,  and D. Niyato, ["Minimizing Energy Consumption in UAV-Assisted Maritime Wireless Powered Networks With Constrained Age of Information](https://ieeexplore.ieee.org/document/11193853)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
+23.  Z. Ma, **R. Zhang^**, B. Ai, Z. Lian, L. Zeng, D. Niyato, and Y. Peng ["Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System](https://ieeexplore.ieee.org/document/11048955)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
+24.  H. Hu, Haizhou Tang, **R. Zhang^**, F. Jiang, Z. Ding,  and D. Niyato, ["Joint Scheduling and Power Control in AoI-Oriented WP-IoT Networks: An HVF-Based PPO Approach](https://ieeexplore.ieee.org/document/11193853)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
+25.  H. Hu, Qiuyu Yu, **R. Zhang^**, Yinghui Ye, F. Jiang, J. Jiang,  and D. Niyato, ["Minimizing Energy Consumption in UAV-Assisted Maritime Wireless Powered Networks With Constrained Age of Information](https://ieeexplore.ieee.org/document/11193853)," ***IEEE Transactions on Vehicular Technology***, 2025 (IF 6.1, An2).
 
      
 
@@ -279,7 +279,7 @@ Some representative papers (first author and corresponding author papers)
 Awards
 ======
 1. **Best Paper Award**, IEEE IWCMC, 2025
-2. **Best Paper Award**, IEEE IWCMC, 2025
+2. **Best Workshop Paper Award**, IEEE IWCMC, 2025
 3. **首都前沿学术成果**, 北京市科学技术协会, 2024
 4. **Best Paper Award**, Electric Power, 2024
 5. **Best Paper Award**, Electric Power, 2023
