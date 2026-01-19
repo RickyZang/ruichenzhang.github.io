@@ -10,7 +10,8 @@ redirect_from:
 Hi! I am currently a Research Fellow at the [College of Computing and Data Science](https://www.ntu.edu.sg/computing), Nanyang Technological University (NTU), Singapore, working with Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/) (President's Chair Professor, FIEEE). Prior to this, I obtained my PhD degree at Beijing Jiaotong University in Sept. 2023, Beijing, China, under the guidance of Prof. [Ke Xiong](https://scholar.google.nl/citations?user=Bt_z_14AAAAJ&hl=en) and Prof. [Yang Lu](https://scholar.google.com/citations?user=EJj7uN0AAAAJ&hl=zh-en).
 
 
-I am also honored to serve as a **Managing Editor** of the [IEEE Transactions on Network Science and Engineering](https://www.comsoc.org/publications/journals/ieee-tnse) (IEEE TNSE), assisting the Editor-in-Chief and the entire editorial board in supporting the journal and the broader research community. My research primarily focuses on AI for networking, including **generative AI-enabled networking**, **large language models empowered networking**, and **reinforcement learning-enabled wireless communication networks**. If you are interested in my (our group) work, you may refer to this [repository](https://jyc5559.github.io/GAINET.github.io/) for the latest updates of our group! Moreover, I am also doing some novel AI models to get meaningful information on the plasma turbulence field. If you are also interested, please refer to this [repository](https://ntufusion.github.io/).
+I am also honored to serve as a **Managing Editor** of the [IEEE Transactions on Network Science and Engineering](https://www.comsoc.org/publications/journals/ieee-tnse) (IEEE TNSE), assisting the Editor-in-Chief and the entire editorial board in supporting the journal and the broader research community. My research primarily focuses on Agentic AI for networking, where autonomous, goal-driven agents leverage LLMs/foundation models, tool use, and reinforcement learning to enable closed-loop network autonomy (e.g., perception, planning, decision-making, and action) for next-generation wireless and edge networks. This includes generative AI-enabled networking, LLM-empowered networking, and RL-enabled wireless communication systems for tasks such as network operation, resource orchestration, and adaptive optimization in dynamic environments. If you are interested in our work, you may refer to this repository for the latest updates of our group: https://jyc5559.github.io/GAINET.github.io/
+. In addition, I also develop novel AI models to extract meaningful scientific insights in the plasma turbulence domain; related updates can be found here: https://ntufusion.github.io/
 
 
 If you have any questions or are interested in collaborating with me, please feel free to email me (ruichen.zhang@ntu.edu.sg)!
@@ -223,7 +224,7 @@ Highlight
 
 
 
-Some representative papers (first author and corresponding author papers)
+Representative papers (first author and corresponding author papers)
 ======
 **For all publications, please refer to Publications or my [google scholar](https://scholar.google.nl/citations?user=Uf2_bcIAAAAJ&hl=en).**
 
