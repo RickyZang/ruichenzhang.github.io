@@ -16,7 +16,7 @@ I am also honored to serve as a **Managing Editor** of the [IEEE Transactions on
 
 If you have any questions or are interested in collaborating with me, please feel free to email me (ruichen.zhang@ntu.edu.sg)!
 
-
+<!--
 Highlight
 ======
 1. **Managing Editor**:  [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).  
@@ -28,7 +28,7 @@ Highlight
 7.  **Call for Papers**:  IEEE Journal of Selected Areas in Sensors Special Issue on “[Trustworthy and Safe Generative Artificial Intelligence and Large Language
  Models (LLMs) for Sensor IoT](https://ieee-jsas.org/wp-content/uploads/2025/05/LLM-CFP.docx.pdf)”, **Guest Editor**.
 8. **Call for Papers**: IEEE Globecom Workshop “[Agentic AI Empowered Wireless Communications and Networking](https://globecom2025.ieee-globecom.org/workshop/ws-05-agentic-ai-empowered-wireless-communications-and-networking)”, **Lead Co-Chair**
-
+-->
 
 <!--News
 ======
