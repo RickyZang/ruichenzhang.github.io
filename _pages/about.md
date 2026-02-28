@@ -297,13 +297,13 @@ Academic Services
 ======
 1. **Managing Editor**:  [IEEE Transactions on Network Science and Engineering (IEEE TNSE)](https://www.comsoc.org/publications/journals/ieee-tnse/editorial-board).
 2. **Editor**: [IEEE Transactions on Communications (IEEE TCOM)](https://www.comsoc.org/publications/journals/ieee-tcom/ieee-transactions-communications-editorial-board).
-3. , **Lead Guest Editor**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”.
+3.  **Lead Guest Editor**: IEEE Transactions on Cognitive Communications and Networking Special Issue on “[Agentic AI for Communications and Networking with Embodied Intelligence](https://www.comsoc.org/publications/journals/ieee-tccn/cfp/agentic-ai-communications-and-networking-embodied-intelligence)”.
 4. **Guest Editor***:  IEEE Transactions on Artificial Intelligence Special Issue on “[Sustainable Large AI Models for Edge Intelligence](https://cis.ieee.org/images/files/Documents/call-for-special-issues/TAI/_SI_TAI_CFP.pdf)”.
-5.  **Guest Editor**:  IEEE Journal of Selected Areas in Sensors Special Issue on “[Trustworthy and Safe Generative Artificial Intelligence and Large Language
- Models (LLMs) for Sensor IoT](https://ieee-jsas.org/wp-content/uploads/2025/05/LLM-CFP.docx.pdf)”.
+<!--5.  **Guest Editor**:  IEEE Journal of Selected Areas in Sensors Special Issue on “[Trustworthy and Safe Generative Artificial Intelligence and Large Language 
+ Models (LLMs) for Sensor IoT](https://ieee-jsas.org/wp-content/uploads/2025/05/LLM-CFP.docx.pdf)”. -->
 7. **Symposium Co-Chair**: IEEE WCSP “[Wireless Networking, Services, and Security Symposium](http://www.ic-wcsp.org/2025/show.asp?id=14)”.
 8. **Workshop Lead Chair**: IEEE Globecom “[Agentic AI Empowered Wireless Communications and Networking](https://globecom2025.ieee-globecom.org/workshop/ws-05-agentic-ai-empowered-wireless-communications-and-networking)”.
-3. **Workshop Co-chair**, “Integrated Communication, Sensing, and Computation for UAV Wireless Networks” in IEEE CCAI 2024.
+<!--3. **Workshop Co-chair**, “Integrated Communication, Sensing, and Computation for UAV Wireless Networks” in IEEE CCAI 2024.-->
 4. **TPC Member**, IEEE GLOBECOM 2024, IEEE PIMRC 2024, Track 2 - Networking & MAC, etc.
 5. **Reviewer**: IEEE JSAC, COMST, TMC, TCOM, TWC, IOTJ, TCCN, TIFS, TVT, WCL, etc.
 
