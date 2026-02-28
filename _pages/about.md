@@ -284,6 +284,7 @@ Representative papers (first author and corresponding author papers)
 
 Awards
 ======
+1. **Best Paper Award**, IEEE Trustcom, 2025
 1. **Best Paper Award**, IEEE IWCMC, 2025
 2. **Best Workshop Paper Award**, IEEE IWCMC, 2025
 3. **首都前沿学术成果**, 北京市科学技术协会, 2024
